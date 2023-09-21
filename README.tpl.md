@@ -26,7 +26,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 {{- end}}
 
 ### 📜 My recent blog posts
-{{range rss "https://m4rc3l.de/blog.rss" 5}}
+{{range rss "https://www.wendbaar.nl/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
