@@ -19,7 +19,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LeipeLeon/blog](https://github.com/LeipeLeon/blog) - Personal Blog @ https://blog.wendbaar.nl/
 - [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments
 - [LeipeLeon/destaat](https://github.com/LeipeLeon/destaat)
-- [LeipeLeon/versionsapptest](https://github.com/LeipeLeon/versionsapptest) - Test the versions app
+- [LeipeLeon/ATEMControl](https://github.com/LeipeLeon/ATEMControl) - Arduino controller for an ATEM switch, based on SKAARHOJ Opensource ATEM libs
 
 ### 🔭 Latest releases I've contributed to
 
@@ -35,7 +35,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 📜 My recent blog posts
 
-- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (2 years ago)
+- [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (2 months ago)
+- [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (6 months ago)
+- [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (7 months ago)
+- [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (7 months ago)
+- [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (7 months ago)
 
 ### ⭐ Recent stars
 
