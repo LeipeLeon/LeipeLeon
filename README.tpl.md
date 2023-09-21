@@ -1,23 +1,9 @@
 ## Hi there 👋!
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=MarcelCoding&theme=dark"> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelCoding&theme=dark"> -->
-
 ### About Me
 
-My name is **Marcel**.
-<br><br>
-I'm mainly a **Java Developer**, who is currently trying to learn **Rust**. I deploy most of the stuff that I create or use using **Docker**.
+My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 <br>
-Besides backends, I also work on frontends in the past mostly with the framework **Angular** but in the recent time I also used some **NuxtJS**. 
-
-<!--
-[![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Repos](https://badges.pufler.dev/repos/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/MarcelCoding?style=flat-square&color=black&logo=github)](https://gist.github.com/MarcelCoding)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
--->
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
