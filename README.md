@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (2 days ago)
-- [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (4 days ago)
+- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (3 days ago)
+- [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (5 days ago)
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi) (1 month ago)
 - [piotrmurach/slideck](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal. (1 month ago)
 - [rdy/fixture_builder](https://github.com/rdy/fixture_builder) - fixture builder based on code from fixture scenarios (2 months ago)
