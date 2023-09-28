@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 weeks ago)
+- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (3 weeks ago)
 - [LeipeLeon/blog](https://github.com/LeipeLeon/blog) - Personal Blog @ https://blog.wendbaar.nl/ (2 months ago)
 - [Memoriam-tv/.github](https://github.com/Memoriam-tv/.github) - Memoriam.tv Organisation (3 months ago)
 - [LeipeLeon/PowerDiscogs](https://github.com/LeipeLeon/PowerDiscogs) - Rapid search the database, handy for in the recordstore! (6 months ago)
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (5 days ago)
+- [fnando/factory_bot-preload](https://github.com/fnando/factory_bot-preload) - Preload factories (factory_bot) just like fixtures. It will be easy and, probably, faster! (1 day ago)
+- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (6 days ago)
 - [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (1 week ago)
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi) (1 month ago)
 - [piotrmurach/slideck](https://github.com/piotrmurach/slideck) - Present Markdown-powered slide decks in the terminal. (1 month ago)
-- [rdy/fixture_builder](https://github.com/rdy/fixture_builder) - fixture builder based on code from fixture scenarios (2 months ago)
