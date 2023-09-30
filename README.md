@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [fnando/factory_bot-preload](https://github.com/fnando/factory_bot-preload) - Preload factories (factory_bot) just like fixtures. It will be easy and, probably, faster! (2 days ago)
+- [fnando/factory_bot-preload](https://github.com/fnando/factory_bot-preload) - Preload factories (factory_bot) just like fixtures. It will be easy and, probably, faster! (3 days ago)
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (1 week ago)
 - [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (1 week ago)
 - [jsonapi-serializer/jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi) (1 month ago)
