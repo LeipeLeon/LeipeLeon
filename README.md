@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.6.0](https://github.com/bibendi/dip/releases/tag/v7.6.0), 4 months ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v7.6.0](https://github.com/bibendi/dip/releases/tag/v7.6.0), 5 months ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (4 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (5 days ago)
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI (1 week ago)
-- [fnando/factory_bot-preload](https://github.com/fnando/factory_bot-preload) - Preload factories (factory_bot) just like fixtures. It will be easy and, probably, faster! (1 week ago)
+- [fnando/factory_bot-preload](https://github.com/fnando/factory_bot-preload) - Preload factories (factory_bot) just like fixtures. It will be easy and, probably, faster! (2 weeks ago)
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you&#39;ve been missing all your life has finally arrived. (2 weeks ago)
-- [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (2 weeks ago)
+- [LeipeLeon/zettlekast](https://github.com/LeipeLeon/zettlekast) (3 weeks ago)
