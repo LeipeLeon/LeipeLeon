@@ -9,8 +9,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (2 weeks ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (2 weeks ago)
-- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (2 weeks ago)
-- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (1 month ago)
+- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (3 weeks ago)
+- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 months ago)
 - [LeipeLeon/blog](https://github.com/LeipeLeon/blog) - Personal Blog @ https://blog.wendbaar.nl/ (3 months ago)
 
 ### 🌱 My latest projects
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (4 days ago)
+- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (5 days ago)
 - [maveio/metrics](https://github.com/maveio/metrics) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [maveio/metrics-server](https://github.com/maveio/metrics-server) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (3 weeks ago)
