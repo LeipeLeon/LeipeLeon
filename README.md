@@ -27,11 +27,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
+- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (1 day ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (2 weeks ago)
 - [Improve GitHub action](https://github.com/bibendi/dip/pull/159) on [bibendi/dip](https://github.com/bibendi/dip) (9 months ago)
 - [fix readme](https://github.com/graphiti-api/spraypaint.js/pull/105) on [graphiti-api/spraypaint.js](https://github.com/graphiti-api/spraypaint.js) (2 years ago)
 - [Handle server to server notifications](https://github.com/rootstrap/apple_auth/pull/29) on [rootstrap/apple_auth](https://github.com/rootstrap/apple_auth) (2 years ago)
-- [fix: Add default option `always_include_resource_ids: false` to has_many/belongs_to](https://github.com/graphiti-api/graphiti-api.github.io/pull/41) on [graphiti-api/graphiti-api.github.io](https://github.com/graphiti-api/graphiti-api.github.io) (2 years ago)
 
 ### 📜 My recent blog posts
 
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (5 days ago)
+- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (6 days ago)
 - [maveio/metrics](https://github.com/maveio/metrics) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [maveio/metrics-server](https://github.com/maveio/metrics-server) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (3 weeks ago)
