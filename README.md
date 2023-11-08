@@ -23,11 +23,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.6.0](https://github.com/bibendi/dip/releases/tag/v7.6.0), 5 months ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 1 day ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (1 day ago)
+- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (2 days ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (2 weeks ago)
 - [Improve GitHub action](https://github.com/bibendi/dip/pull/159) on [bibendi/dip](https://github.com/bibendi/dip) (9 months ago)
 - [fix readme](https://github.com/graphiti-api/spraypaint.js/pull/105) on [graphiti-api/spraypaint.js](https://github.com/graphiti-api/spraypaint.js) (2 years ago)
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (6 days ago)
+- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (1 week ago)
 - [maveio/metrics](https://github.com/maveio/metrics) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [maveio/metrics-server](https://github.com/maveio/metrics-server) - privacy friendly (🇪🇺) video metrics hosted on mave.io (2 weeks ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (3 weeks ago)
-- [gabrielmagno/crab-dlna](https://github.com/gabrielmagno/crab-dlna) - A minimal UPnP/DLNA media streamer written in Rust (3 weeks ago)
+- [gabrielmagno/crab-dlna](https://github.com/gabrielmagno/crab-dlna) - A minimal UPnP/DLNA media streamer written in Rust (4 weeks ago)
