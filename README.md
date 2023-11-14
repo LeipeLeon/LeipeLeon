@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (5 days ago)
+- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (6 days ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (3 weeks ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (3 weeks ago)
 - [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (4 weeks ago)
@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 6 days ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 1 week ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (4 days ago)
+- [testdouble/test_data](https://github.com/testdouble/test_data) - A fast &amp; reliable system for managing your Rails application&#39;s test data (1 day ago)
+- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Postgres-based rate limiter for Rails (1 day ago)
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (5 days ago)
 - [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (1 week ago)
 - [maveio/metrics](https://github.com/maveio/metrics) - privacy friendly (🇪🇺) video metrics hosted on mave.io (3 weeks ago)
-- [maveio/metrics-server](https://github.com/maveio/metrics-server) - privacy friendly (🇪🇺) video metrics hosted on mave.io (3 weeks ago)
-- [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (4 weeks ago)
