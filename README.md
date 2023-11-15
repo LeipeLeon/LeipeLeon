@@ -7,10 +7,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (6 days ago)
+- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (1 week ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (3 weeks ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (3 weeks ago)
-- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (4 weeks ago)
+- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (1 month ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 months ago)
 
 ### 🌱 My latest projects
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [testdouble/test_data](https://github.com/testdouble/test_data) - A fast &amp; reliable system for managing your Rails application&#39;s test data (1 day ago)
-- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Postgres-based rate limiter for Rails (1 day ago)
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (5 days ago)
-- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (1 week ago)
-- [maveio/metrics](https://github.com/maveio/metrics) - privacy friendly (🇪🇺) video metrics hosted on mave.io (3 weeks ago)
+- [heroku/heroku-buildpack-awscli](https://github.com/heroku/heroku-buildpack-awscli) (1 day ago)
+- [testdouble/test_data](https://github.com/testdouble/test_data) - A fast &amp; reliable system for managing your Rails application&#39;s test data (2 days ago)
+- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Postgres-based rate limiter for Rails (2 days ago)
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (6 days ago)
+- [bobf/rspec-html](https://github.com/bobf/rspec-html) - HTML document abstraction and matchers for RSpec (2 weeks ago)
