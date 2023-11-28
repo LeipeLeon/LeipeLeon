@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 2 weeks ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 3 weeks ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -38,13 +38,13 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (4 months ago)
 - [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (8 months ago)
 - [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (9 months ago)
-- [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (9 months ago)
-- [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (9 months ago)
+- [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (10 months ago)
+- [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (10 months ago)
 
 ### ⭐ Recent stars
 
-- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices (3 days ago)
+- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices (4 days ago)
 - [arirusso/unimidi](https://github.com/arirusso/unimidi) - Realtime MIDI IO for Ruby (1 week ago)
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge (1 week ago)
 - [AndyObtiva/glimmer](https://github.com/AndyObtiva/glimmer) - DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for Tk (Ruby Tk Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (&amp; HTML), and Glimmer DSL for CSS (1 week ago)
-- [heroku/heroku-buildpack-awscli](https://github.com/heroku/heroku-buildpack-awscli) (1 week ago)
+- [heroku/heroku-buildpack-awscli](https://github.com/heroku/heroku-buildpack-awscli) (2 weeks ago)
