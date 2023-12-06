@@ -7,11 +7,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (3 weeks ago)
+- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (4 weeks ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (1 month ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (1 month ago)
 - [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (1 month ago)
-- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 months ago)
+- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (3 months ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (4 weeks ago)
+- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (1 month ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (1 month ago)
 - [Improve GitHub action](https://github.com/bibendi/dip/pull/159) on [bibendi/dip](https://github.com/bibendi/dip) (10 months ago)
 - [fix readme](https://github.com/graphiti-api/spraypaint.js/pull/105) on [graphiti-api/spraypaint.js](https://github.com/graphiti-api/spraypaint.js) (2 years ago)
