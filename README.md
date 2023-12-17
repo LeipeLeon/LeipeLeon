@@ -37,14 +37,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (4 months ago)
 - [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (9 months ago)
-- [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (9 months ago)
+- [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (10 months ago)
 - [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (10 months ago)
 - [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (10 months ago)
 
 ### ⭐ Recent stars
 
-- [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (5 days ago)
-- [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (5 days ago)
-- [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox (6 days ago)
+- [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (6 days ago)
+- [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (6 days ago)
+- [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox (1 week ago)
 - [jvandenaardweg/homebridge-homewizard-energy-socket](https://github.com/jvandenaardweg/homebridge-homewizard-energy-socket) - This verified Homebridge plugin exposes your HomeWizard Energy Sockets to Apple HomeKit. So you can use the Home App to switch your Energy Sockets on or off and integrate the Energy Sockets into your Home Automations. (1 week ago)
 - [pch/based_uuid](https://github.com/pch/based_uuid) - 🔑 URL-friendly, base32-encoded UUIDs for Rails models (1 week ago)
