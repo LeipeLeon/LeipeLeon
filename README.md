@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (5 days ago)
+- [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (6 days ago)
 - [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (1 week ago)
 - [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (1 week ago)
-- [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox (1 week ago)
+- [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox (2 weeks ago)
 - [jvandenaardweg/homebridge-homewizard-energy-socket](https://github.com/jvandenaardweg/homebridge-homewizard-energy-socket) - This verified Homebridge plugin exposes your HomeWizard Energy Sockets to Apple HomeKit. So you can use the Home App to switch your Energy Sockets on or off and integrate the Energy Sockets into your Home Automations. (2 weeks ago)
