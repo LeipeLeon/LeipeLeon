@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (2 weeks ago)
+- [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (3 weeks ago)
 - [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (3 weeks ago)
 - [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (1 month ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (2 months ago)
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (3 days ago)
+- [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (4 days ago)
 - [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (1 week ago)
 - [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (2 weeks ago)
 - [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (2 weeks ago)
