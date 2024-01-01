@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (5 days ago)
-- [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (1 week ago)
-- [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (2 weeks ago)
-- [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (2 weeks ago)
+- [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (6 days ago)
+- [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (2 weeks ago)
+- [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (3 weeks ago)
+- [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (3 weeks ago)
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox (3 weeks ago)
