@@ -11,7 +11,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (2 months ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (2 months ago)
 - [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (2 months ago)
-- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (3 months ago)
+- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (4 months ago)
 
 ### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (3 weeks ago)
-- [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (3 weeks ago)
-- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (1 month ago)
+- [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (4 weeks ago)
+- [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (2 months ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (2 months ago)
 - [Improve GitHub action](https://github.com/bibendi/dip/pull/159) on [bibendi/dip](https://github.com/bibendi/dip) (11 months ago)
 
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (1 day ago)
+- [makandra/active_type](https://github.com/makandra/active_type) - Make any Ruby object quack like ActiveRecord (1 day ago)
+- [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby (1 day ago)
+- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua (1 day ago)
+- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (2 days ago)
 - [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (1 week ago)
-- [fastruby/next_rails](https://github.com/fastruby/next_rails) - A toolkit to upgrade your next Rails application  (2 weeks ago)
-- [amtins/cassettator.js](https://github.com/amtins/cassettator.js) - A collection of video.js components and plugins (3 weeks ago)
-- [damonsk/wardley-maps-examples](https://github.com/damonsk/wardley-maps-examples) - For use in vscode-wardley-maps or onlinewardleymaps (3 weeks ago)
