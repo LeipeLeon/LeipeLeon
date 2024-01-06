@@ -23,11 +23,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 1 month ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 2 months ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (3 weeks ago)
+- [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (4 weeks ago)
 - [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (4 weeks ago)
 - [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (2 months ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (2 months ago)
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [makandra/active_type](https://github.com/makandra/active_type) - Make any Ruby object quack like ActiveRecord (1 day ago)
-- [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby (1 day ago)
-- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua (1 day ago)
-- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (2 days ago)
+- [makandra/active_type](https://github.com/makandra/active_type) - Make any Ruby object quack like ActiveRecord (2 days ago)
+- [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby (2 days ago)
+- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua (2 days ago)
+- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (3 days ago)
 - [amagimedia/avplumber](https://github.com/amagimedia/avplumber) - A &#34;gstreamer-like&#34; C&#43;&#43; framework for ffmpeg/libav graphs with support of async processing and lock-free queue (1 week ago)
