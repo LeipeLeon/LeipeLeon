@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [components-ai/randoma11y](https://github.com/components-ai/randoma11y) - Vote on random a11y color combinations (1 day ago)
-- [makandra/active_type](https://github.com/makandra/active_type) - Make any Ruby object quack like ActiveRecord (4 days ago)
-- [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby (4 days ago)
-- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua (4 days ago)
-- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (5 days ago)
+- [components-ai/randoma11y](https://github.com/components-ai/randoma11y) - Vote on random a11y color combinations (2 days ago)
+- [makandra/active_type](https://github.com/makandra/active_type) - Make any Ruby object quack like ActiveRecord (5 days ago)
+- [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby (5 days ago)
+- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua (5 days ago)
+- [jonathanhogg/flitter](https://github.com/jonathanhogg/flitter) - A 2D and 3D visuals language and engine designed for live performances, supporting live coding and controlling visuals with a MIDI surface. (6 days ago)
