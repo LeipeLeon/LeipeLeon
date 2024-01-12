@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. (1 day ago)
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (1 day ago)
-- [chocoapp/tech-radar](https://github.com/chocoapp/tech-radar) - Choco Tech Radar (1 day ago)
-- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (2 days ago)
-- [components-ai/randoma11y](https://github.com/components-ai/randoma11y) - Vote on random a11y color combinations (4 days ago)
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. (2 days ago)
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (2 days ago)
+- [chocoapp/tech-radar](https://github.com/chocoapp/tech-radar) - Choco Tech Radar (2 days ago)
+- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (3 days ago)
+- [components-ai/randoma11y](https://github.com/components-ai/randoma11y) - Vote on random a11y color combinations (5 days ago)
