@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [kaspth/oaken](https://github.com/kaspth/oaken) - A fresh blended alternative to Fixtures &amp; FactoryBot for dev and test data. (2 days ago)
-- [rswag/rswag](https://github.com/rswag/rswag) - Seamlessly adds a Swagger to Rails-based API&#39;s (5 days ago)
-- [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes (5 days ago)
-- [kaspth/brb](https://github.com/kaspth/brb) - BRB is a backslashed Ruby template system, to let you be-right-back to ERB (6 days ago)
-- [jaredbeck/libyear-bundler](https://github.com/jaredbeck/libyear-bundler) - A simple measure of dependency freshness (1 week ago)
+- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (1 day ago)
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (1 day ago)
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams. (1 day ago)
+- [kaspth/oaken](https://github.com/kaspth/oaken) - A fresh blended alternative to Fixtures &amp; FactoryBot for dev and test data. (3 days ago)
+- [rswag/rswag](https://github.com/rswag/rswag) - Seamlessly adds a Swagger to Rails-based API&#39;s (6 days ago)
