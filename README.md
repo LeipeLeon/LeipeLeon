@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (2 days ago)
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (2 days ago)
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams. (2 days ago)
-- [kaspth/oaken](https://github.com/kaspth/oaken) - A fresh blended alternative to Fixtures &amp; FactoryBot for dev and test data. (4 days ago)
-- [rswag/rswag](https://github.com/rswag/rswag) - Seamlessly adds a Swagger to Rails-based API&#39;s (1 week ago)
+- [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (1 day ago)
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (1 day ago)
+- [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (1 day ago)
+- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (3 days ago)
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (3 days ago)
