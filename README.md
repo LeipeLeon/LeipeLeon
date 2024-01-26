@@ -23,7 +23,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v7.7.0](https://github.com/bibendi/dip/releases/tag/v7.7.0), 2 months ago) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -43,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (1 day ago)
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (1 day ago)
-- [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (1 day ago)
-- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (3 days ago)
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (3 days ago)
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 day ago)
+- [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (2 days ago)
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (2 days ago)
+- [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (2 days ago)
+- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (4 days ago)
