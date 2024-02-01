@@ -35,14 +35,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 📜 My recent blog posts
 
 - [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (6 months ago)
-- [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (10 months ago)
+- [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (11 months ago)
 - [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (11 months ago)
 - [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (1 year ago)
 - [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (1 year ago)
 
 ### ⭐ Recent stars
 
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (6 days ago)
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 week ago)
 - [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (1 week ago)
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (1 week ago)
 - [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (1 week ago)
