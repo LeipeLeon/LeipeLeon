@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (4 days ago)
-- [KallDrexx/rust-media-libs](https://github.com/KallDrexx/rust-media-libs) - Rust based libraries for misc media functionality (4 days ago)
-- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (6 days ago)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (6 days ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 week ago)
+- [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (1 day ago)
+- [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (5 days ago)
+- [KallDrexx/rust-media-libs](https://github.com/KallDrexx/rust-media-libs) - Rust based libraries for misc media functionality (5 days ago)
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (1 week ago)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (1 week ago)
