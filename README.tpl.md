@@ -31,6 +31,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 {{- end}}
 
 ### ⭐ Recent stars
-{{range recentStars 5}}
+{{range recentStars 25}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
