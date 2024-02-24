@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (3 days ago)
+- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (1 day ago)
+- [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (4 days ago)
 - [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (1 week ago)
 - [KallDrexx/rust-media-libs](https://github.com/KallDrexx/rust-media-libs) - Rust based libraries for misc media functionality (1 week ago)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (1 week ago)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (1 week ago)
