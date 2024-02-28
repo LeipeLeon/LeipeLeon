@@ -42,13 +42,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (3 days ago)
-- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (4 days ago)
+- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (1 day ago)
+- [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (4 days ago)
+- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (5 days ago)
 - [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (1 week ago)
 - [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (1 week ago)
 - [KallDrexx/rust-media-libs](https://github.com/KallDrexx/rust-media-libs) - Rust based libraries for misc media functionality (1 week ago)
-- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (1 week ago)
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (1 week ago)
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (2 weeks ago)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (2 weeks ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (2 weeks ago)
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (3 weeks ago)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [collectiveidea/audited](https://github.com/collectiveidea/audited) - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models. (1 month ago)
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. (1 month ago)
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc.. (1 month ago)
-- [chocoapp/tech-radar](https://github.com/chocoapp/tech-radar) - Choco Tech Radar (1 month ago)
