@@ -35,18 +35,18 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 📜 My recent blog posts
 
 - [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (7 months ago)
-- [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (11 months ago)
+- [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (1 year ago)
 - [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (1 year ago)
 - [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (1 year ago)
 - [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (1 year ago)
 
 ### ⭐ Recent stars
 
-- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (1 day ago)
-- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (1 day ago)
-- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (2 days ago)
-- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (3 days ago)
-- [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (6 days ago)
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (2 days ago)
+- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (2 days ago)
+- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (3 days ago)
+- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (4 days ago)
+- [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (1 week ago)
 - [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (1 week ago)
 - [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (1 week ago)
 - [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (2 weeks ago)
