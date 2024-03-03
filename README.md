@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (4 weeks ago)
+- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (1 month ago)
 - [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (3 months ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (4 months ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (4 months ago)
@@ -42,10 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (2 days ago)
-- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (2 days ago)
-- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (3 days ago)
-- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (4 days ago)
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (3 days ago)
+- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (3 days ago)
+- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (4 days ago)
+- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (5 days ago)
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (1 week ago)
 - [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (1 week ago)
 - [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (1 week ago)
@@ -54,7 +54,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (2 weeks ago)
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (2 weeks ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (3 weeks ago)
-- [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (4 weeks ago)
+- [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (1 month ago)
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (1 month ago)
 - [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (1 month ago)
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (1 month ago)
