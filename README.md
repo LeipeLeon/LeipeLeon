@@ -42,10 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (3 days ago)
-- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (3 days ago)
-- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (4 days ago)
-- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (5 days ago)
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (4 days ago)
+- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (4 days ago)
+- [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (5 days ago)
+- [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (6 days ago)
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (1 week ago)
 - [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (1 week ago)
 - [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (1 week ago)
