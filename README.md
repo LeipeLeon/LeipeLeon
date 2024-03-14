@@ -11,7 +11,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (4 months ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (4 months ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (4 months ago)
-- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (4 months ago)
+- [LeipeLeon/warner](https://github.com/LeipeLeon/warner) - Annotate your code w/ custom deprecation warnings to the $stderr when a newer version of a gem or rails is installed. Especially useful for monkeypatching. (5 months ago)
 
 ### 🌱 My latest projects
 
@@ -42,11 +42,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (5 days ago)
-- [basecamp/mission_control-jobs](https://github.com/basecamp/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (5 days ago)
+- [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (6 days ago)
+- [basecamp/mission_control-jobs](https://github.com/basecamp/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (6 days ago)
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative (1 week ago)
-- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (1 week ago)
-- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (1 week ago)
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (2 weeks ago)
+- [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (2 weeks ago)
 - [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (2 weeks ago)
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (2 weeks ago)
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (2 weeks ago)
