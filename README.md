@@ -42,7 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 days ago)
+- [givtnl/givt-app](https://github.com/givtnl/givt-app) (1 day ago)
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (3 days ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (1 month ago)
 - [rails/mission_control-jobs](https://github.com/rails/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (1 month ago)
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack. (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (2 months ago)
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (2 months ago)
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. (2 months ago)
-- [kaspth/oaken](https://github.com/kaspth/oaken) - A fresh blended alternative to Fixtures &amp; FactoryBot for dev and test data. (2 months ago)
