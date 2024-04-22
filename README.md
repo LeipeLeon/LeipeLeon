@@ -42,9 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (2 days ago)
-- [givtnl/givt-app](https://github.com/givtnl/givt-app) (3 days ago)
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (5 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 day ago)
+- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (3 days ago)
+- [givtnl/givt-app](https://github.com/givtnl/givt-app) (4 days ago)
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (6 days ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (1 month ago)
 - [rails/mission_control-jobs](https://github.com/rails/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (1 month ago)
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack. (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (2 months ago)
 - [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (2 months ago)
 - [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (3 months ago)
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. (3 months ago)
