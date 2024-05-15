@@ -42,6 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (1 day ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (3 weeks ago)
 - [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (3 weeks ago)
 - [givtnl/givt-app](https://github.com/givtnl/givt-app) (3 weeks ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [shogo4405/HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android. (3 months ago)
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS. (3 months ago)
 - [shogo4405/HaishinKit.dart](https://github.com/shogo4405/HaishinKit.dart) - Camera and Microphone streaming library via RTMP for Flutter. (3 months ago)
-- [essential61/mp4analyser](https://github.com/essential61/mp4analyser) - mp4 file analyser written in Python (3 months ago)
