@@ -42,9 +42,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (4 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (3 weeks ago)
-- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (4 weeks ago)
+- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (5 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (4 weeks ago)
+- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (1 month ago)
 - [givtnl/givt-app](https://github.com/givtnl/givt-app) (1 month ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (1 month ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (2 months ago)
