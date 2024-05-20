@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (5 days ago)
+- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (6 days ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (4 weeks ago)
 - [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (1 month ago)
 - [givtnl/givt-app](https://github.com/givtnl/givt-app) (1 month ago)
@@ -56,7 +56,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (2 months ago)
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (2 months ago)
 - [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (2 months ago)
-- [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (2 months ago)
+- [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (3 months ago)
 - [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (3 months ago)
 - [KallDrexx/rust-media-libs](https://github.com/KallDrexx/rust-media-libs) - Rust based libraries for misc media functionality (3 months ago)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (3 months ago)
