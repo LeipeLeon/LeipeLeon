@@ -9,7 +9,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (4 weeks ago)
 - [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (4 months ago)
-- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (6 months ago)
+- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (7 months ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (7 months ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (7 months ago)
 
@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (5 months ago)
-- [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (5 months ago)
+- [⬆️ support for faraday 2](https://github.com/Memoriam-tv/json_api_client/pull/1) on [Memoriam-tv/json_api_client](https://github.com/Memoriam-tv/json_api_client) (6 months ago)
 - [fix link to RSpec-rails documentation](https://github.com/kucaahbe/rspec-html-matchers/pull/81) on [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) (7 months ago)
 - [fix: homepage link to https://github.com/tendersearls/tldr](https://github.com/tendersearls/tldr/pull/8) on [tendersearls/tldr](https://github.com/tendersearls/tldr) (7 months ago)
 - [Improve GitHub action](https://github.com/bibendi/dip/pull/159) on [bibendi/dip](https://github.com/bibendi/dip) (1 year ago)
@@ -42,6 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser (1 day ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (1 week ago)
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (1 week ago)
 - [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (2 weeks ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (3 months ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (3 months ago)
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (4 months ago)
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos (4 months ago)
