@@ -26,10 +26,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (3 days ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (5 days ago)
-- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (5 days ago)
-- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (5 days ago)
+- [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (4 days ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (6 days ago)
+- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (6 days ago)
+- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (6 days ago)
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (6 months ago)
 
 ### 📜 My recent blog posts
@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (6 days ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 week ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (1 week ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (3 weeks ago)
@@ -51,7 +51,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (1 month ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 month ago)
 - [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (1 month ago)
-- [givtnl/givt-app](https://github.com/givtnl/givt-app) (1 month ago)
+- [givtnl/givt-app](https://github.com/givtnl/givt-app) (2 months ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 months ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (3 months ago)
 - [rails/mission_control-jobs](https://github.com/rails/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (3 months ago)
