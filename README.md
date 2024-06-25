@@ -27,9 +27,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (1 week ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 week ago)
-- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 week ago)
-- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 week ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
+- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
+- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (6 months ago)
 
 ### 📜 My recent blog posts
@@ -42,10 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (6 days ago)
+- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 week ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 weeks ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (2 weeks ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 weeks ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 weeks ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (1 month ago)
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (1 month ago)
 - [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (1 month ago)
