@@ -27,9 +27,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (2 weeks ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
-- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
-- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 weeks ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 weeks ago)
+- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 weeks ago)
+- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 weeks ago)
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (6 months ago)
 
 ### 📜 My recent blog posts
@@ -42,11 +42,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 day ago)
-- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 week ago)
+- [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (2 days ago)
+- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (2 weeks ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (3 weeks ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (3 weeks ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 weeks ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (4 weeks ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (1 month ago)
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (1 month ago)
 - [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (1 month ago)
@@ -57,7 +57,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 months ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (3 months ago)
 - [rails/mission_control-jobs](https://github.com/rails/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs (3 months ago)
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL &amp; Customer Data Platform (CDP) (3 months ago)
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL &amp; Customer Data Platform (CDP) (4 months ago)
 - [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations. (4 months ago)
 - [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (4 months ago)
 - [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (4 months ago)
