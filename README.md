@@ -44,7 +44,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 week ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (3 weeks ago)
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (4 weeks ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (1 month ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (1 month ago)
