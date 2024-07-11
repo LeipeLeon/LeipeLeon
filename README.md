@@ -26,10 +26,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (3 weeks ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (4 weeks ago)
-- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (4 weeks ago)
-- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (4 weeks ago)
+- [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (4 weeks ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 month ago)
+- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 month ago)
+- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (1 month ago)
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (7 months ago)
 
 ### 📜 My recent blog posts
