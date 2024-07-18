@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### ⭐ Recent stars
 
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (2 weeks ago)
-- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (4 weeks ago)
+- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (1 month ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
@@ -52,7 +52,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (1 month ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (2 months ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 months ago)
-- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (2 months ago)
+- [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (3 months ago)
 - [givtnl/givt-app](https://github.com/givtnl/givt-app) (3 months ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (3 months ago)
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby. (4 months ago)
