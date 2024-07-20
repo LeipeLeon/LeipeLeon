@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 day ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 days ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (2 weeks ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
@@ -50,9 +50,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 - [shalanah/ios404](https://github.com/shalanah/ios404) - The missing web features of iOS (1 month ago)
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (1 month ago)
-- [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (1 month ago)
+- [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (2 months ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (2 months ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 months ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (3 months ago)
 - [sergey-dryabzhinsky/nginx-rtmp-module](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module) - NGINX-based Media Streaming Server (3 months ago)
 - [givtnl/givt-app](https://github.com/givtnl/givt-app) (3 months ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (3 months ago)
