@@ -37,12 +37,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [tip: Less chatty health_check logging in development](https://www.wendbaar.nl/posts/2023/07/tip_less_chatty_health_check_logging_in_development) (1 year ago)
 - [TIL: `npx npkill` to clean up your node_modules on your harddrive](https://www.wendbaar.nl/posts/2023/03/til_npx_npkill_to_clean_up_your_node_modules_on_your_harddrive) (1 year ago)
 - [StandardRB VS-code plugin](https://www.wendbaar.nl/posts/2023/02/standardrb_vscode_plugin) (1 year ago)
-- [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (1 year ago)
-- [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (1 year ago)
+- [Send your users an activation mail](https://www.wendbaar.nl/posts/2023/02/send_your_users_an_activation_mail) (2 years ago)
+- [Airplay Reciever hijacks port 5000 and 7000](https://www.wendbaar.nl/posts/2023/02/airplay_reciever_hijacks_port_5000_and_7000) (2 years ago)
 
 ### ⭐ Recent stars
 
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (6 days ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (3 weeks ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
