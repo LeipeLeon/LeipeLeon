@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### ⭐ Recent stars
 
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
-- [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (4 weeks ago)
+- [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 month ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
 - [Eyevinn/chaos-stream-proxy](https://github.com/Eyevinn/chaos-stream-proxy) - Add some chaos to your HTTP streams to validate player behaviour (1 month ago)
