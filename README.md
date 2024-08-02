@@ -42,6 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 day ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 weeks ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 month ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (5 months ago)
 - [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (5 months ago)
 - [tylerhunt/rack-canonical-host](https://github.com/tylerhunt/rack-canonical-host) - Rack middleware for defining a canonical host name. (5 months ago)
-- [KallDrexx/mmids](https://github.com/KallDrexx/mmids) - MultiMedia Ingestion and Distribution System (5 months ago)
