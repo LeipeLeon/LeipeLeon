@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (6 days ago)
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 weeks ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 week ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (3 weeks ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 month ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (1 month ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 month ago)
