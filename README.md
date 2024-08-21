@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (2 days ago)
+- [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (3 days ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 month ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences (1 month ago)
@@ -66,4 +66,4 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [appsignal/mono](https://github.com/appsignal/mono) - Multi language tool for managing single and mono repository packages (5 months ago)
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files. (5 months ago)
 - [ankane/ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails (5 months ago)
-- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (5 months ago)
+- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (6 months ago)
