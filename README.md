@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (4 days ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (5 days ago)
+- [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (5 days ago)
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (6 days ago)
 - [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (1 week ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (3 weeks ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 month ago)
