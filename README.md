@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (3 months ago)
-- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (6 months ago)
+- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (7 months ago)
 - [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (9 months ago)
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease (10 months ago)
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don&#39;t have time for slow tests 💣💥 (10 months ago)
@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 day ago)
-- [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (6 days ago)
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 days ago)
+- [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (1 week ago)
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (1 week ago)
 - [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (1 week ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (4 weeks ago)
