@@ -27,9 +27,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (2 months ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 months ago)
-- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 months ago)
-- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (2 months ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 months ago)
+- [Merge branch &#39;release/0.9.5&#39; into develop](https://github.com/kdgm/ri_cal/pull/3) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 months ago)
+- [add GitHub action](https://github.com/kdgm/ri_cal/pull/2) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 months ago)
 - [Improve the Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/Shopify/json_api_client/pull/3) on [Shopify/json_api_client](https://github.com/Shopify/json_api_client) (9 months ago)
 
 ### 📜 My recent blog posts
@@ -42,15 +42,16 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (2 days ago)
-- [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! (4 days ago)
-- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (4 days ago)
-- [lightning-js/solid-demo-app](https://github.com/lightning-js/solid-demo-app) - Sample TMDB App using Lightning and SolidJS (4 days ago)
-- [Shopify/identity_cache](https://github.com/Shopify/identity_cache) - IdentityCache is a blob level caching solution to plug into Active Record. Don&#39;t #find, #fetch! (4 days ago)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (4 days ago)
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (4 days ago)
-- [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes. (4 days ago)
-- [MinBZK/woo-besluit-broncode-digid](https://github.com/MinBZK/woo-besluit-broncode-digid) (5 days ago)
+- [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (1 day ago)
+- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (3 days ago)
+- [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! (5 days ago)
+- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (5 days ago)
+- [lightning-js/solid-demo-app](https://github.com/lightning-js/solid-demo-app) - Sample TMDB App using Lightning and SolidJS (5 days ago)
+- [Shopify/identity_cache](https://github.com/Shopify/identity_cache) - IdentityCache is a blob level caching solution to plug into Active Record. Don&#39;t #find, #fetch! (5 days ago)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (5 days ago)
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (5 days ago)
+- [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes. (5 days ago)
+- [MinBZK/woo-besluit-broncode-digid](https://github.com/MinBZK/woo-besluit-broncode-digid) (6 days ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 week ago)
 - [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (2 weeks ago)
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (2 weeks ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (3 months ago)
 - [thoughtbot/capybara_accessibility_audit](https://github.com/thoughtbot/capybara_accessibility_audit) - Accessibility tooling for Capybara (3 months ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (3 months ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (4 months ago)
