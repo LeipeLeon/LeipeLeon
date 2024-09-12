@@ -26,9 +26,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (1 day ago)
-- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (1 day ago)
-- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (1 day ago)
+- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (2 days ago)
+- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (2 days ago)
+- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (2 days ago)
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (3 months ago)
 - [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (3 months ago)
 
@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (3 days ago)
-- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (5 days ago)
+- [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (4 days ago)
+- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (6 days ago)
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! (1 week ago)
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (1 week ago)
 - [lightning-js/solid-demo-app](https://github.com/lightning-js/solid-demo-app) - Sample TMDB App using Lightning and SolidJS (1 week ago)
@@ -54,7 +54,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [MinBZK/woo-besluit-broncode-digid](https://github.com/MinBZK/woo-besluit-broncode-digid) (1 week ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 weeks ago)
 - [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (2 weeks ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (2 weeks ago)
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (3 weeks ago)
 - [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (3 weeks ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 month ago)
