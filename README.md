@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 days ago)
-- [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (3 days ago)
+- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (3 days ago)
+- [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (4 days ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (1 week ago)
 - [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (1 week ago)
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! (2 weeks ago)
@@ -54,9 +54,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (2 weeks ago)
 - [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes. (2 weeks ago)
 - [MinBZK/woo-besluit-broncode-digid](https://github.com/MinBZK/woo-besluit-broncode-digid) (2 weeks ago)
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 weeks ago)
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query. (3 weeks ago)
 - [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (3 weeks ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (3 weeks ago)
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (4 weeks ago)
 - [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (1 month ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 months ago)
