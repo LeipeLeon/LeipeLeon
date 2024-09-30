@@ -42,12 +42,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (4 days ago)
+- [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (5 days ago)
 - [palkan/wsdirector](https://github.com/palkan/wsdirector) - All the world&#39;s a server, and all the men and women merely clients (1 week ago)
 - [anycable/xk6-cable](https://github.com/anycable/xk6-cable) - A k6 extension for testing Action Cable and AnyCable functionality (1 week ago)
 - [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (1 week ago)
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (1 week ago)
-- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (1 week ago)
+- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 weeks ago)
 - [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (2 weeks ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (3 weeks ago)
 - [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (3 weeks ago)
@@ -63,7 +63,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (1 month ago)
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (1 month ago)
 - [keygen-sh/null_association](https://github.com/keygen-sh/null_association) - Use the null object pattern with Active Record associations. (1 month ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 months ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 months ago)
 - [ruby-conferences/ruby-conferences.github.io](https://github.com/ruby-conferences/ruby-conferences.github.io) - A simple list of Ruby conferences and meetups. (3 months ago)
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) (3 months ago)
