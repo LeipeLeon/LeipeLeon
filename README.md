@@ -40,11 +40,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (1 day ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (1 week ago)
 - [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (2 weeks ago)
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (2 weeks ago)
-- [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (2 weeks ago)
-- [bbc/lrud-spatial](https://github.com/bbc/lrud-spatial) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls. (2 weeks ago)
+- [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (3 weeks ago)
+- [bbc/lrud-spatial](https://github.com/bbc/lrud-spatial) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls. (3 weeks ago)
 - [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (4 weeks ago)
 - [palkan/wsdirector](https://github.com/palkan/wsdirector) - All the world&#39;s a server, and all the men and women merely clients (1 month ago)
 - [anycable/xk6-cable](https://github.com/anycable/xk6-cable) - A k6 extension for testing Action Cable and AnyCable functionality (1 month ago)
@@ -64,4 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [MinBZK/woo-besluit-broncode-digid](https://github.com/MinBZK/woo-besluit-broncode-digid) (1 month ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query. (1 month ago)
 - [schpet/cool_id](https://github.com/schpet/cool_id) - generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid (2 months ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (2 months ago)
