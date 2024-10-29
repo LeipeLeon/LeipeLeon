@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (5 months ago)
-- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (8 months ago)
+- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (9 months ago)
 - [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (11 months ago)
 
 ### 🌱 My latest projects
@@ -40,8 +40,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (4 days ago)
-- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (5 days ago)
+- [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (5 days ago)
+- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (6 days ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (2 weeks ago)
 - [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (3 weeks ago)
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (3 weeks ago)
