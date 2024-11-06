@@ -40,11 +40,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 day ago)
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (2 days ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (1 week ago)
-- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (1 week ago)
+- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (2 weeks ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (3 weeks ago)
-- [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (4 weeks ago)
+- [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (1 month ago)
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (1 month ago)
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (1 month ago)
 - [bbc/lrud-spatial](https://github.com/bbc/lrud-spatial) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls. (1 month ago)
