@@ -40,8 +40,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (2 days ago)
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (6 days ago)
+- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (3 days ago)
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (2 weeks ago)
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (2 weeks ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (4 weeks ago)
