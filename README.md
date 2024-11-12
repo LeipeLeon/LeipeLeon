@@ -9,7 +9,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (6 months ago)
 - [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (9 months ago)
-- [kucaahbe/rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers) - Old school have_tag, with_tag(and more) matchers for rspec 3 (Nokogiri powered) (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -40,11 +39,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (3 days ago)
+- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (4 days ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (2 weeks ago)
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (2 weeks ago)
-- [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (4 weeks ago)
+- [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (1 month ago)
 - [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (1 month ago)
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (1 month ago)
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (1 month ago)
