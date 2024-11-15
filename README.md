@@ -39,9 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (2 days ago)
-- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (2 days ago)
-- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (6 days ago)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (3 days ago)
+- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (3 days ago)
+- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (1 week ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (3 weeks ago)
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (3 weeks ago)
@@ -55,7 +55,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [anycable/xk6-cable](https://github.com/anycable/xk6-cable) - A k6 extension for testing Action Cable and AnyCable functionality (1 month ago)
 - [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (1 month ago)
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (1 month ago)
-- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (1 month ago)
+- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 months ago)
 - [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (2 months ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (2 months ago)
 - [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (2 months ago)
