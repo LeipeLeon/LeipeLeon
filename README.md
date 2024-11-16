@@ -39,8 +39,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (3 days ago)
-- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (3 days ago)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (4 days ago)
+- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (4 days ago)
 - [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (1 week ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (3 weeks ago)
