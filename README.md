@@ -39,8 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (4 days ago)
-- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (4 days ago)
+- [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (1 day ago)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (5 days ago)
+- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (5 days ago)
 - [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (1 week ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (3 weeks ago)
@@ -63,4 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (2 months ago)
 - [lightning-js/solid-demo-app](https://github.com/lightning-js/solid-demo-app) - Sample TMDB App using Lightning and SolidJS (2 months ago)
 - [Shopify/identity_cache](https://github.com/Shopify/identity_cache) - IdentityCache is a blob level caching solution to plug into Active Record. Don&#39;t #find, #fetch! (2 months ago)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (2 months ago)
