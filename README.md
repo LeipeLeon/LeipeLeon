@@ -39,11 +39,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (1 day ago)
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (5 days ago)
-- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (5 days ago)
+- [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (2 days ago)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (6 days ago)
+- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (6 days ago)
 - [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (1 week ago)
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (2 weeks ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (3 weeks ago)
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (3 weeks ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (1 month ago)
@@ -54,8 +54,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (1 month ago)
 - [palkan/wsdirector](https://github.com/palkan/wsdirector) - All the world&#39;s a server, and all the men and women merely clients (1 month ago)
 - [anycable/xk6-cable](https://github.com/anycable/xk6-cable) - A k6 extension for testing Action Cable and AnyCable functionality (1 month ago)
-- [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (1 month ago)
-- [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (1 month ago)
+- [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (2 months ago)
+- [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (2 months ago)
 - [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 months ago)
 - [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (2 months ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (2 months ago)
