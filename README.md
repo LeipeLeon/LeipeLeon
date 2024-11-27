@@ -39,7 +39,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (4 days ago)
+- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 day ago)
+- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (5 days ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 week ago)
 - [malt03/rails-rspec-file-toggle](https://github.com/malt03/rails-rspec-file-toggle) (1 week ago)
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service (1 week ago)
@@ -63,4 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 months ago)
 - [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (2 months ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (2 months ago)
-- [kaspth/active_record-associated_object](https://github.com/kaspth/active_record-associated_object) - Extract Collaborator Objects from your Active Records, a new concept called Associated Objects (2 months ago)
