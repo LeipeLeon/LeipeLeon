@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (6 months ago)
-- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (9 months ago)
+- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (10 months ago)
 
 ### 🌱 My latest projects
 
@@ -39,8 +39,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 day ago)
-- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (5 days ago)
+- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (2 days ago)
+- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (6 days ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 week ago)
 - [malt03/rails-rspec-file-toggle](https://github.com/malt03/rails-rspec-file-toggle) (1 week ago)
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service (1 week ago)
