@@ -39,15 +39,15 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (2 days ago)
-- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (6 days ago)
+- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (3 days ago)
+- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 week ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 week ago)
 - [malt03/rails-rspec-file-toggle](https://github.com/malt03/rails-rspec-file-toggle) (1 week ago)
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service (1 week ago)
 - [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (1 week ago)
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (2 weeks ago)
 - [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (2 weeks ago)
-- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (2 weeks ago)
+- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (3 weeks ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (3 weeks ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (1 month ago)
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (1 month ago)
