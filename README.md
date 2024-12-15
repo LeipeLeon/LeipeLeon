@@ -61,6 +61,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [anycable/xk6-cable](https://github.com/anycable/xk6-cable) - A k6 extension for testing Action Cable and AnyCable functionality (2 months ago)
 - [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (2 months ago)
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (2 months ago)
-- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (2 months ago)
+- [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (3 months ago)
 - [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (3 months ago)
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them (3 months ago)
