@@ -40,7 +40,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### ⭐ Recent stars
 
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (3 weeks ago)
-- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (4 weeks ago)
+- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 month ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 month ago)
 - [malt03/rails-rspec-file-toggle](https://github.com/malt03/rails-rspec-file-toggle) (1 month ago)
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service (1 month ago)
@@ -50,7 +50,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (1 month ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 month ago)
 - [renuo/moirai](https://github.com/renuo/moirai) - Let the world be translated, one typo at a time. (1 month ago)
-- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (1 month ago)
+- [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (2 months ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (2 months ago)
 - [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (2 months ago)
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (2 months ago)
