@@ -39,7 +39,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby exception messages with the variables in scope. (1 day ago)
+- [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby exception messages with the variables in scope. (2 days ago)
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 month ago)
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 month ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 month ago)
