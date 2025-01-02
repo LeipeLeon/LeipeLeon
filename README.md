@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (7 months ago)
+- [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (8 months ago)
 - [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (11 months ago)
 
 ### 🌱 My latest projects
@@ -39,7 +39,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby exception messages with the variables in scope. (5 days ago)
+- [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (1 day ago)
+- [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby spec failures and exception messages with the variables in scope. (6 days ago)
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 month ago)
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 month ago)
 - [heroku/heroku-buildpack-activestorage-preview](https://github.com/heroku/heroku-buildpack-activestorage-preview) - Official Heroku Rails 5.2 Active Storage Previews Buildpack (1 month ago)
@@ -63,4 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [KonnorRogers/mrujs](https://github.com/KonnorRogers/mrujs) - UJS for modern javascript. (3 months ago)
 - [charkost/prosopite](https://github.com/charkost/prosopite) - :mag: Rails N&#43;1 queries auto-detection with zero false positives / false negatives (3 months ago)
 - [userlist/active_model-relation](https://github.com/userlist/active_model-relation) - Query collections of ActiveModel objects like an ActiveRecord::Relation (3 months ago)
-- [JohnAnon9771/mockup-generator](https://github.com/JohnAnon9771/mockup-generator) - MockupGenerator is a Ruby tool that generates realistic mockups from templates, masks and graphic arts using the RMagick library. (3 months ago)
