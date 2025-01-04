@@ -39,7 +39,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (2 days ago)
+- [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (3 days ago)
 - [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby spec failures and exception messages with the variables in scope. (1 week ago)
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 month ago)
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 month ago)
@@ -55,7 +55,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code&#39;s builtin markdown preview (2 months ago)
 - [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A Rails plugin to provide templates for the axlsx gem (2 months ago)
 - [amazing-print/amazing_print](https://github.com/amazing-print/amazing_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation (2 months ago)
-- [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (2 months ago)
+- [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (3 months ago)
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (3 months ago)
 - [bbc/lrud-spatial](https://github.com/bbc/lrud-spatial) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls. (3 months ago)
 - [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (3 months ago)
