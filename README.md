@@ -39,9 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 day ago)
-- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (1 day ago)
-- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (3 days ago)
+- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (2 days ago)
+- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (2 days ago)
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (4 days ago)
 - [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (1 week ago)
 - [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby spec failures and exception messages with the variables in scope. (2 weeks ago)
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (1 month ago)
