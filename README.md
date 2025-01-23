@@ -39,8 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (1 day ago)
-- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (2 days ago)
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 day ago)
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (2 days ago)
+- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (3 days ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 week ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (1 week ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (2 weeks ago)
@@ -63,4 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [BaseSecrete/active_hashcash](https://github.com/BaseSecrete/active_hashcash) - Protect Rails applications against bots and brute force attacks without annoying humans. (3 months ago)
 - [AxaFrance/dailyclean](https://github.com/AxaFrance/dailyclean) - Save The planet by auto turn off your pods on kubernetes (3 months ago)
 - [bbc/lrud-spatial](https://github.com/bbc/lrud-spatial) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls. (3 months ago)
-- [standardrb/standard-ruby-action](https://github.com/standardrb/standard-ruby-action) (3 months ago)
