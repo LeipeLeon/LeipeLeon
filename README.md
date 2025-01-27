@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (8 months ago)
-- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (11 months ago)
+- [LeipeLeon/geef](https://github.com/LeipeLeon/geef) - Small express js site to handle payments (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -39,12 +39,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (3 days ago)
-- [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (3 days ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (3 days ago)
-- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (4 days ago)
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (5 days ago)
-- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (6 days ago)
+- [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (4 days ago)
+- [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (4 days ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (4 days ago)
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (5 days ago)
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (6 days ago)
+- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (1 week ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (2 weeks ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (2 weeks ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (2 weeks ago)
