@@ -39,9 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (6 days ago)
-- [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (6 days ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (6 days ago)
+- [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (1 week ago)
+- [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (1 week ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (1 week ago)
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 week ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (1 week ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (1 week ago)
