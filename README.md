@@ -39,10 +39,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 day ago)
-- [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (2 days ago)
-- [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (2 days ago)
-- [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (2 days ago)
+- [thechangelog/pipedream](https://github.com/thechangelog/pipedream) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like “Look at our CDN, guys.” https://changelog.com/friends/38#transcript-208 (1 day ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 days ago)
+- [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (3 days ago)
+- [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (3 days ago)
+- [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (3 days ago)
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (1 week ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (1 week ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (1 week ago)
@@ -63,4 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (2 months ago)
 - [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (2 months ago)
 - [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (2 months ago)
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (2 months ago)
