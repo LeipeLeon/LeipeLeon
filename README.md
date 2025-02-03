@@ -39,17 +39,17 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [thechangelog/pipedream](https://github.com/thechangelog/pipedream) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like “Look at our CDN, guys.” https://changelog.com/friends/38#transcript-208 (1 day ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 days ago)
-- [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (3 days ago)
-- [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (3 days ago)
-- [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (3 days ago)
+- [thechangelog/pipedream](https://github.com/thechangelog/pipedream) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like “Look at our CDN, guys.” https://changelog.com/friends/38#transcript-208 (2 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 days ago)
+- [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (4 days ago)
+- [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (4 days ago)
+- [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (4 days ago)
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (1 week ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (1 week ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (1 week ago)
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 week ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (1 week ago)
-- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (1 week ago)
+- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (2 weeks ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (3 weeks ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (3 weeks ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (3 weeks ago)
