@@ -22,9 +22,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (4 months ago)
-- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (4 months ago)
-- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (4 months ago)
+- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (5 months ago)
+- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (5 months ago)
+- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (5 months ago)
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (7 months ago)
 - [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (8 months ago)
 
@@ -38,8 +38,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [thechangelog/pipedream](https://github.com/thechangelog/pipedream) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like “Look at our CDN, guys.” https://changelog.com/friends/38#transcript-208 (5 days ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (6 days ago)
+- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (1 day ago)
+- [thechangelog/pipedream](https://github.com/thechangelog/pipedream) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like “Look at our CDN, guys.” https://changelog.com/friends/38#transcript-208 (6 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (1 week ago)
 - [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (1 week ago)
 - [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (1 week ago)
@@ -49,9 +50,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (2 weeks ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (2 weeks ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - Capture MpegTS UDP Multicast using pcap, pipe to ffmpeg for hls segmentation, upload to s3 (2 weeks ago)
-- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (3 weeks ago)
-- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (3 weeks ago)
-- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (4 weeks ago)
+- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (4 weeks ago)
+- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (4 weeks ago)
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (1 month ago)
 - [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (1 month ago)
 - [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby spec failures and exception messages with the variables in scope. (1 month ago)
 - [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (2 months ago)
@@ -62,4 +63,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (2 months ago)
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (2 months ago)
 - [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (2 months ago)
-- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails (3 months ago)
