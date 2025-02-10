@@ -38,7 +38,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (3 days ago)
+- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (4 days ago)
 - [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (1 week ago)
@@ -49,7 +49,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (2 weeks ago)
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (2 weeks ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (2 weeks ago)
-- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (2 weeks ago)
+- [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (3 weeks ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 month ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (1 month ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (1 month ago)
@@ -61,5 +61,5 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [malt03/rails-rspec-file-toggle](https://github.com/malt03/rails-rspec-file-toggle) (2 months ago)
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service (2 months ago)
 - [leonvogt/hotwire-dev-tools](https://github.com/leonvogt/hotwire-dev-tools) - Browser Dev Tools for Turbo and Stimulus (2 months ago)
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (2 months ago)
-- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (2 months ago)
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 (3 months ago)
+- [jeremyevans/ruby-warning](https://github.com/jeremyevans/ruby-warning) - Add custom processing for warnings (3 months ago)
