@@ -38,7 +38,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (5 days ago)
+- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (6 days ago)
 - [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (1 week ago)
@@ -47,7 +47,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (2 weeks ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (2 weeks ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (2 weeks ago)
-- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (2 weeks ago)
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (3 weeks ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services. (3 weeks ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (3 weeks ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 month ago)
