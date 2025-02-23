@@ -38,7 +38,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (6 days ago)
+- [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (1 week ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (1 week ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (1 week ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (1 week ago)
