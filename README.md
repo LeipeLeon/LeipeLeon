@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (9 months ago)
+- [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (10 months ago)
 
 ### 🌱 My latest projects
 
@@ -38,14 +38,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (5 days ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (6 days ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (2 weeks ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (2 weeks ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 weeks ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (2 weeks ago)
 - [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (2 weeks ago)
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (3 weeks ago)
-- [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (4 weeks ago)
+- [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
 - [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (1 month ago)
 - [hotwired/spark](https://github.com/hotwired/spark) - Hot reloading for Hotwire (1 month ago)
