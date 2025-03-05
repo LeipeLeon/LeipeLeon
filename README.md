@@ -38,13 +38,16 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (1 day ago)
+- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (1 day ago)
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (1 day ago)
+- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (1 day ago)
+- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (2 days ago)
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 week ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (2 weeks ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (2 weeks ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 weeks ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (2 weeks ago)
-- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (2 weeks ago)
+- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (3 weeks ago)
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (3 weeks ago)
 - [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
@@ -60,6 +63,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 month ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (1 month ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (1 month ago)
-- [DmitryTsepelev/store_model](https://github.com/DmitryTsepelev/store_model) - Work with JSON-backed attributes as ActiveRecord-ish models (2 months ago)
-- [ericbeland/enhanced_errors](https://github.com/ericbeland/enhanced_errors) - Enhance Ruby spec failures and exception messages with the variables in scope. (2 months ago)
-- [quortex/x264-pVMAF](https://github.com/quortex/x264-pVMAF) (3 months ago)
