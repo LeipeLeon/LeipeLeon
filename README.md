@@ -38,10 +38,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 days ago)
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 days ago)
-- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (2 days ago)
-- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (3 days ago)
+- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (3 days ago)
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (3 days ago)
+- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (3 days ago)
+- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (4 days ago)
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 week ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (2 weeks ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (2 weeks ago)
