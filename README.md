@@ -26,7 +26,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (5 months ago)
 - [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (5 months ago)
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (8 months ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (8 months ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (9 months ago)
 
 ### 📜 My recent blog posts
 
@@ -38,17 +38,17 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (3 days ago)
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (3 days ago)
-- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (3 days ago)
-- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (4 days ago)
+- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (4 days ago)
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (4 days ago)
+- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (4 days ago)
+- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (5 days ago)
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 week ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (2 weeks ago)
-- [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (2 weeks ago)
-- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 weeks ago)
+- [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (3 weeks ago)
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (3 weeks ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (3 weeks ago)
 - [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (3 weeks ago)
-- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (4 weeks ago)
+- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (1 month ago)
 - [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
 - [zombocom/maildown](https://github.com/zombocom/maildown) - Write your ActionMailer email templates in Markdown, send in html and plain text (1 month ago)
