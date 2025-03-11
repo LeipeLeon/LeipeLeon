@@ -38,11 +38,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (6 days ago)
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (6 days ago)
-- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (6 days ago)
+- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (1 week ago)
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (1 week ago)
+- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (1 week ago)
 - [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (1 week ago)
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 week ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (2 weeks ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (3 weeks ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (3 weeks ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (3 weeks ago)
@@ -60,6 +60,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 month ago)
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres. (1 month ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (1 month ago)
-- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (1 month ago)
-- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (1 month ago)
+- [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (2 months ago)
+- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (2 months ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript (2 months ago)
