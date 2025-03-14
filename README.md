@@ -38,7 +38,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [kdgm/induction](https://github.com/kdgm/induction) (2 days ago)
+- [kdgm/induction](https://github.com/kdgm/induction) (3 days ago)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (1 week ago)
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (1 week ago)
 - [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (1 week ago)
@@ -48,7 +48,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (3 weeks ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (3 weeks ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (4 weeks ago)
-- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (4 weeks ago)
+- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (1 month ago)
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (1 month ago)
 - [thechangelog/pipely](https://github.com/thechangelog/pipely) - I like the idea of having like this 20-line Varnish config that we deploy around the world, and it’s like: Look at our CDN! (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 month ago)
@@ -59,7 +59,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (1 month ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (1 month ago)
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 month ago)
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres. (1 month ago)
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres. (1 month ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (1 month ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (2 months ago)
 - [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (2 months ago)
