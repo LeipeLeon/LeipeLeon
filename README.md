@@ -38,13 +38,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [kdgm/induction](https://github.com/kdgm/induction) (6 days ago)
-- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (1 week ago)
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (1 week ago)
-- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (1 week ago)
+- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 day ago)
+- [kdgm/induction](https://github.com/kdgm/induction) (1 week ago)
+- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 weeks ago)
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 weeks ago)
+- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (2 weeks ago)
 - [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (2 weeks ago)
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (2 weeks ago)
-- [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (4 weeks ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (3 weeks ago)
+- [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (1 month ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (1 month ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (1 month ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (1 month ago)
@@ -62,4 +63,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres. (1 month ago)
 - [groovybits/mpegts_to_s3](https://github.com/groovybits/mpegts_to_s3) - MpegTS UDP to HLS storage in S3 and playback from S3 replaying back to UDP  (1 month ago)
 - [gesinger/debugvideo-com](https://github.com/gesinger/debugvideo-com) - debugvideo.com is a collection of tools, topics, and code snippets that may help video devs debug browser-based video playback. (2 months ago)
-- [gesinger/debug-video](https://github.com/gesinger/debug-video) - A debugging tool for HLS and DASH (2 months ago)
