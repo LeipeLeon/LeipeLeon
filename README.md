@@ -38,10 +38,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 day ago)
-- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (2 days ago)
-- [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (3 days ago)
-- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (4 days ago)
+- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (2 days ago)
+- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (3 days ago)
+- [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (4 days ago)
+- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (5 days ago)
 - [kdgm/induction](https://github.com/kdgm/induction) (1 week ago)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 weeks ago)
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 weeks ago)
