@@ -38,10 +38,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (2 days ago)
-- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (3 days ago)
-- [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (4 days ago)
-- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (5 days ago)
+- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (3 days ago)
+- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (4 days ago)
+- [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (5 days ago)
+- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (6 days ago)
 - [kdgm/induction](https://github.com/kdgm/induction) (1 week ago)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 weeks ago)
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 weeks ago)
@@ -62,4 +62,4 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (1 month ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (1 month ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (1 month ago)
-- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (1 month ago)
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (2 months ago)
