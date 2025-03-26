@@ -38,8 +38,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (5 days ago)
-- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (6 days ago)
+- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (6 days ago)
+- [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 week ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 week ago)
 - [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 week ago)
 - [kdgm/induction](https://github.com/kdgm/induction) (2 weeks ago)
