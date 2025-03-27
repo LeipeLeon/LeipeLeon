@@ -38,7 +38,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (6 days ago)
+- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call node.js from Ruby (1 day ago)
+- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 week ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 week ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 week ago)
 - [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 week ago)
@@ -47,7 +48,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (3 weeks ago)
 - [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (3 weeks ago)
 - [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (3 weeks ago)
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (4 weeks ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 month ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (1 month ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (1 month ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (1 month ago)
@@ -62,4 +63,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (2 months ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (2 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (2 months ago)
-- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8&#43;), preloaded CMS, read-only API, badges &amp; more. (2 months ago)
