@@ -38,7 +38,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call node.js from Ruby (1 day ago)
+- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (2 days ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 week ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 week ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 week ago)
