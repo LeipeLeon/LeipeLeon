@@ -38,7 +38,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (2 days ago)
+- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 day ago)
+- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (3 days ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 week ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 week ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 week ago)
@@ -62,4 +63,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Drieam/rspec-github](https://github.com/Drieam/rspec-github) - Formatter for RSpec to show errors in GitHub action annotations (1 month ago)
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository (2 months ago)
 - [MikeCoats/gregorian](https://github.com/MikeCoats/gregorian) - The Greg or Ian Calendar (2 months ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - Generate an iCal feed for your device (2 months ago)
