@@ -38,8 +38,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 day ago)
-- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (3 days ago)
+- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (2 days ago)
+- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (4 days ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 week ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 week ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 week ago)
