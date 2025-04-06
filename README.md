@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (1 day ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 days ago)
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (11 months ago)
 
 ### 🌱 My latest projects
@@ -39,12 +39,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (2 days ago)
-- [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (2 days ago)
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 days ago)
-- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (3 days ago)
-- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (3 days ago)
-- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (5 days ago)
+- [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (3 days ago)
+- [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (3 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 days ago)
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (4 days ago)
+- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (4 days ago)
+- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (6 days ago)
 - [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 week ago)
 - [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (1 week ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (2 weeks ago)
