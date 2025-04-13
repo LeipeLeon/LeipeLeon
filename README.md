@@ -39,7 +39,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (2 days ago)
+- [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (3 days ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (1 week ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (1 week ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 week ago)
@@ -62,5 +62,5 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (1 month ago)
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (1 month ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (1 month ago)
-- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (1 month ago)
+- [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (2 months ago)
 - [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (2 months ago)
