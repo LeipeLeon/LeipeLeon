@@ -7,6 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (1 day ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 weeks ago)
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (11 months ago)
 
@@ -39,6 +40,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [typemytype/drawbot](https://github.com/typemytype/drawbot) (1 day ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (1 week ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (2 weeks ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (2 weeks ago)
@@ -48,7 +50,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (2 weeks ago)
 - [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (3 weeks ago)
 - [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (3 weeks ago)
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (4 weeks ago)
+- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 month ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 month ago)
 - [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 month ago)
@@ -63,4 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 months ago)
 - [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (2 months ago)
 - [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD (2 months ago)
-- [avo-hq/marksmith](https://github.com/avo-hq/marksmith) - GitHub-style markdown editor for Ruby and Rails (2 months ago)
