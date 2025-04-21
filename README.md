@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 days ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 days ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 weeks ago)
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (11 months ago)
 
@@ -40,15 +40,17 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (1 day ago)
-- [typemytype/drawbot](https://github.com/typemytype/drawbot) (2 days ago)
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 day ago)
+- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (1 day ago)
+- [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (2 days ago)
+- [typemytype/drawbot](https://github.com/typemytype/drawbot) (3 days ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (1 week ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (2 weeks ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (2 weeks ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 weeks ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (2 weeks ago)
 - [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (2 weeks ago)
-- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (2 weeks ago)
+- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (3 weeks ago)
 - [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (3 weeks ago)
 - [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (3 weeks ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
@@ -63,5 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 month ago)
 - [janko/uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart) - Provides Ruby endpoints for AWS S3 multipart uploads in Uppy (2 months ago)
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) (2 months ago)
-- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 months ago)
-- [wabiloo/vscode-m3u8-language](https://github.com/wabiloo/vscode-m3u8-language) (2 months ago)
