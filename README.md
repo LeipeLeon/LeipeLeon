@@ -7,8 +7,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (6 days ago)
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 weeks ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (1 week ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (3 weeks ago)
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (11 months ago)
 
 ### 🌱 My latest projects
@@ -40,11 +40,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 day ago)
-- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (4 days ago)
-- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (4 days ago)
-- [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (5 days ago)
-- [typemytype/drawbot](https://github.com/typemytype/drawbot) (6 days ago)
+- [ixlab/vidformer](https://github.com/ixlab/vidformer) (2 days ago)
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (5 days ago)
+- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (5 days ago)
+- [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (6 days ago)
+- [typemytype/drawbot](https://github.com/typemytype/drawbot) (1 week ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (2 weeks ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (3 weeks ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (3 weeks ago)
@@ -52,8 +52,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (3 weeks ago)
 - [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (3 weeks ago)
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (3 weeks ago)
-- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (3 weeks ago)
-- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (4 weeks ago)
+- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (4 weeks ago)
+- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (1 month ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 month ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 month ago)
