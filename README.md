@@ -40,9 +40,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ixlab/vidformer](https://github.com/ixlab/vidformer) (3 days ago)
-- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (6 days ago)
-- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (6 days ago)
+- [ixlab/vidformer](https://github.com/ixlab/vidformer) (4 days ago)
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 week ago)
+- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (1 week ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (1 week ago)
 - [typemytype/drawbot](https://github.com/typemytype/drawbot) (1 week ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (2 weeks ago)
@@ -52,7 +52,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (3 weeks ago)
 - [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (3 weeks ago)
 - [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (3 weeks ago)
-- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (4 weeks ago)
+- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 month ago)
 - [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (1 month ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 month ago)
