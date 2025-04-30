@@ -40,8 +40,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [joeldrapper/aye_var](https://github.com/joeldrapper/aye_var) (1 day ago)
-- [ixlab/vidformer](https://github.com/ixlab/vidformer) (6 days ago)
+- [joeldrapper/aye_var](https://github.com/joeldrapper/aye_var) (2 days ago)
+- [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 week ago)
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 week ago)
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (1 week ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (1 week ago)
@@ -50,9 +50,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (3 weeks ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (3 weeks ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 weeks ago)
-- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (3 weeks ago)
-- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (3 weeks ago)
-- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (4 weeks ago)
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (4 weeks ago)
+- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (4 weeks ago)
+- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (1 month ago)
 - [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 month ago)
 - [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (1 month ago)
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
