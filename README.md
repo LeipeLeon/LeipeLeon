@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 weeks ago)
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (4 weeks ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (1 month ago)
 - [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (1 year ago)
 
 ### 🌱 My latest projects
@@ -40,11 +40,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (3 days ago)
-- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (5 days ago)
+- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (1 day ago)
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (4 days ago)
+- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (6 days ago)
 - [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 week ago)
-- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 week ago)
-- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (1 week ago)
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (2 weeks ago)
+- [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (2 weeks ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (2 weeks ago)
 - [typemytype/drawbot](https://github.com/typemytype/drawbot) (2 weeks ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (3 weeks ago)
@@ -64,4 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 months ago)
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 months ago)
 - [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (2 months ago)
-- [rails-cookies-everywhere/rails-cookies-monster](https://github.com/rails-cookies-everywhere/rails-cookies-monster) - The definitive test suite for any library decrypting Rails cookies (2 months ago)
