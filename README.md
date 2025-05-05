@@ -40,9 +40,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (1 day ago)
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (4 days ago)
-- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (6 days ago)
+- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (1 day ago)
+- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (2 days ago)
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (5 days ago)
+- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (1 week ago)
 - [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 week ago)
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (2 weeks ago)
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (2 weeks ago)
@@ -64,4 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [kdgm/induction](https://github.com/kdgm/induction) (1 month ago)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 months ago)
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 months ago)
-- [aderyabin/sniffer](https://github.com/aderyabin/sniffer) - Log and Analyze Outgoing HTTP Requests (2 months ago)
