@@ -40,9 +40,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (1 day ago)
-- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (2 days ago)
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (5 days ago)
+- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (1 day ago)
+- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (2 days ago)
+- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (3 days ago)
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (6 days ago)
 - [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (1 week ago)
 - [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 week ago)
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (2 weeks ago)
@@ -64,4 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 month ago)
 - [kdgm/induction](https://github.com/kdgm/induction) (1 month ago)
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 months ago)
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template (2 months ago)
