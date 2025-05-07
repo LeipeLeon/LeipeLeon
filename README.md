@@ -28,7 +28,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (7 months ago)
 - [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (7 months ago)
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (10 months ago)
-- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (10 months ago)
+- [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (11 months ago)
 
 ### 📜 My recent blog posts
 
@@ -40,12 +40,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (1 day ago)
-- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (2 days ago)
-- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (3 days ago)
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (6 days ago)
+- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (2 days ago)
+- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (3 days ago)
+- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (4 days ago)
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (1 week ago)
 - [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (1 week ago)
-- [ixlab/vidformer](https://github.com/ixlab/vidformer) (1 week ago)
+- [ixlab/vidformer](https://github.com/ixlab/vidformer) (2 weeks ago)
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (2 weeks ago)
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (2 weeks ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (2 weeks ago)
