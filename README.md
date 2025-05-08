@@ -24,9 +24,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (7 months ago)
-- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (7 months ago)
-- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (7 months ago)
+- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (8 months ago)
+- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (8 months ago)
+- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (8 months ago)
 - [test rails 6.1 compatiblility](https://github.com/rubyredrick/ri_cal/pull/24) on [rubyredrick/ri_cal](https://github.com/rubyredrick/ri_cal) (10 months ago)
 - [fix tzinfo 2 0](https://github.com/kdgm/ri_cal/pull/4) on [kdgm/ri_cal](https://github.com/kdgm/ri_cal) (11 months ago)
 
@@ -40,9 +40,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (2 days ago)
-- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (3 days ago)
-- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (4 days ago)
+- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (1 day ago)
+- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 day ago)
+- [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (1 day ago)
+- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (3 days ago)
+- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (4 days ago)
+- [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (5 days ago)
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (1 week ago)
 - [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (1 week ago)
 - [ixlab/vidformer](https://github.com/ixlab/vidformer) (2 weeks ago)
@@ -50,7 +53,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (2 weeks ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (2 weeks ago)
 - [typemytype/drawbot](https://github.com/typemytype/drawbot) (2 weeks ago)
-- [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (3 weeks ago)
+- [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (4 weeks ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (1 month ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (1 month ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
@@ -62,6 +65,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
 - [xqq/mpegts.js](https://github.com/xqq/mpegts.js) - HTML5 MPEG2-TS / FLV Stream Player (1 month ago)
 - [Eyevinn/hls-pull-push](https://github.com/Eyevinn/hls-pull-push) - NPM library to pull HLS Live and Push to a another origin (1 month ago)
-- [a-chacon/rails-url-shortener](https://github.com/a-chacon/rails-url-shortener) - RailsUrlShortener is a lightweight Rails engine for short URLs. Ip logger capabilities too. (1 month ago)
-- [kdgm/induction](https://github.com/kdgm/induction) (1 month ago)
-- [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece (2 months ago)
