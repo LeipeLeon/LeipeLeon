@@ -9,7 +9,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 weeks ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (1 month ago)
-- [LeipeLeon/PiPatternGenerator](https://github.com/LeipeLeon/PiPatternGenerator) - A basic implementation of a (test) pattern generator from the HDMI output of an raspberry pi. (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -40,16 +39,16 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (2 days ago)
-- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (2 days ago)
-- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (4 days ago)
-- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (4 days ago)
-- [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (4 days ago)
-- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (6 days ago)
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (3 days ago)
+- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (3 days ago)
+- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (5 days ago)
+- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (5 days ago)
+- [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (5 days ago)
+- [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (1 week ago)
 - [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (1 week ago)
 - [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (1 week ago)
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (1 week ago)
-- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (1 week ago)
+- [joeldrapper/strict_ivars](https://github.com/joeldrapper/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (2 weeks ago)
 - [ixlab/vidformer](https://github.com/ixlab/vidformer) (2 weeks ago)
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (3 weeks ago)
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (3 weeks ago)
