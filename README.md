@@ -39,11 +39,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (3 days ago)
-- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (3 days ago)
-- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (5 days ago)
-- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (5 days ago)
-- [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (5 days ago)
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (4 days ago)
+- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (4 days ago)
+- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (6 days ago)
+- [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (6 days ago)
+- [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (6 days ago)
 - [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (1 week ago)
 - [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (1 week ago)
 - [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (1 week ago)
