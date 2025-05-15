@@ -39,8 +39,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (5 days ago)
-- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (5 days ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 day ago)
+- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (1 day ago)
+- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (1 day ago)
+- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (1 day ago)
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (6 days ago)
+- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (6 days ago)
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (1 week ago)
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 week ago)
 - [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (1 week ago)
@@ -60,7 +64,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (1 month ago)
 - [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (1 month ago)
-- [TheIconfactory/Tapestry](https://github.com/TheIconfactory/Tapestry) (1 month ago)
-- [software-mansion/smelter](https://github.com/software-mansion/smelter) - Toolkit for real-time, low latency, programmable video and audio mixing. (1 month ago)
-- [mtgrosser/nodo](https://github.com/mtgrosser/nodo) - Call Node.js from Ruby (1 month ago)
-- [searls/redirect-dingus](https://github.com/searls/redirect-dingus) (1 month ago)
