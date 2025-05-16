@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 weeks ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (4 weeks ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (1 month ago)
 
 ### 🌱 My latest projects
@@ -39,12 +39,13 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 day ago)
-- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (1 day ago)
-- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (1 day ago)
-- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (1 day ago)
-- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (6 days ago)
-- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (6 days ago)
+- [bigbinary/perfm](https://github.com/bigbinary/perfm) (1 day ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 days ago)
+- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (2 days ago)
+- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (2 days ago)
+- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (2 days ago)
+- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (1 week ago)
+- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (1 week ago)
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (1 week ago)
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 week ago)
 - [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (1 week ago)
@@ -57,10 +58,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (3 weeks ago)
 - [joemasilotti/bridge-components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps. (3 weeks ago)
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB&#43;) decoder with a (slight) focus on showing the signal (3 weeks ago)
-- [typemytype/drawbot](https://github.com/typemytype/drawbot) (3 weeks ago)
+- [typemytype/drawbot](https://github.com/typemytype/drawbot) (4 weeks ago)
 - [andrielfn/pg-ulid](https://github.com/andrielfn/pg-ulid) - PostgreSQL extension for ULID (1 month ago)
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files. (1 month ago)
 - [zombocom/rundoc](https://github.com/zombocom/rundoc) - RunDOC generates documentation by running scripts and embedding their results in the doc (1 month ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (1 month ago)
-- [ruby-ui/ruby_ui](https://github.com/ruby-ui/ruby_ui) - Ruby gem for RubyUI Components (1 month ago)
