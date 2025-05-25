@@ -39,8 +39,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (4 days ago)
-- [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analize CMCD v2 locally and in different cloud providers. (4 days ago)
+- [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (5 days ago)
+- [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analize CMCD v2 locally and in different cloud providers. (5 days ago)
 - [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard) - A mountable Rails engine that provides a dashboard to view Active Storage data (1 week ago)
 - [richardpl/lavfi-preview](https://github.com/richardpl/lavfi-preview) - GUI for libavfilter (1 week ago)
 - [lakshanthad/Electron_reterminal_hardware](https://github.com/lakshanthad/Electron_reterminal_hardware) - Electron app to control and access reTerminal hardware (1 week ago)
@@ -60,7 +60,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (2 weeks ago)
 - [norihiro/obs-color-monitor](https://github.com/norihiro/obs-color-monitor) - Vectorscope, waveform, and histogram for OBS Studio (2 weeks ago)
 - [radioactive-labs/chrono_forge](https://github.com/radioactive-labs/chrono_forge) - A robust framework for building durable, distributed workflows in Ruby on Rails applications (2 weeks ago)
-- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (2 weeks ago)
+- [fsaris/home-assistant-zonneplan-one](https://github.com/fsaris/home-assistant-zonneplan-one) - Unofficial Zonneplan integration for Home Assistant (3 weeks ago)
 - [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display) - Embedded Linux client for displaying TRMNL screens (3 weeks ago)
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player (3 weeks ago)
 - [yippee-fun/strict_ivars](https://github.com/yippee-fun/strict_ivars) - Make Ruby raise a NameError if you read an undefined instance variable. (3 weeks ago)
