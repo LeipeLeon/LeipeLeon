@@ -39,9 +39,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (1 day ago)
-- [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (6 days ago)
-- [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analize CMCD v2 locally and in different cloud providers. (6 days ago)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (2 days ago)
+- [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (1 week ago)
+- [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analize CMCD v2 locally and in different cloud providers. (1 week ago)
 - [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard) - A mountable Rails engine that provides a dashboard to view Active Storage data (1 week ago)
 - [richardpl/lavfi-preview](https://github.com/richardpl/lavfi-preview) - GUI for libavfilter (1 week ago)
 - [lakshanthad/Electron_reterminal_hardware](https://github.com/lakshanthad/Electron_reterminal_hardware) - Electron app to control and access reTerminal hardware (1 week ago)
