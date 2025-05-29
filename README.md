@@ -39,7 +39,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (3 days ago)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (4 days ago)
 - [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (1 week ago)
 - [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analize CMCD v2 locally and in different cloud providers. (1 week ago)
 - [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard) - A mountable Rails engine that provides a dashboard to view Active Storage data (1 week ago)
@@ -50,7 +50,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app (1 week ago)
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player (1 week ago)
 - [wobsoriano/pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store. (1 week ago)
-- [bigbinary/perfm](https://github.com/bigbinary/perfm) (1 week ago)
+- [bigbinary/perfm](https://github.com/bigbinary/perfm) (2 weeks ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 weeks ago)
 - [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (2 weeks ago)
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (2 weeks ago)
