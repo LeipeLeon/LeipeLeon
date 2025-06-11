@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 days ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (1 week ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (1 month ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 months ago)
@@ -41,8 +41,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (1 day ago)
-- [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (5 days ago)
+- [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (2 days ago)
+- [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (6 days ago)
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (1 week ago)
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (1 week ago)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (2 weeks ago)
@@ -57,10 +57,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player (3 weeks ago)
 - [wobsoriano/pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store. (3 weeks ago)
 - [bigbinary/perfm](https://github.com/bigbinary/perfm) (3 weeks ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (3 weeks ago)
-- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (3 weeks ago)
-- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (3 weeks ago)
-- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (3 weeks ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (4 weeks ago)
+- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (4 weeks ago)
+- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (4 weeks ago)
+- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (4 weeks ago)
 - [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (1 month ago)
 - [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (1 month ago)
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (1 month ago)
