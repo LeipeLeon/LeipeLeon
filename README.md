@@ -62,7 +62,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (1 month ago)
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (1 month ago)
 - [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (1 month ago)
-- [rubymonolith/superview](https://github.com/rubymonolith/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (1 month ago)
+- [beautifulruby/superview](https://github.com/beautifulruby/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (1 month ago)
 - [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (1 month ago)
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) (1 month ago)
 - [usetrmnl/firmware](https://github.com/usetrmnl/firmware) - TRMNL device firmware (1 month ago)
