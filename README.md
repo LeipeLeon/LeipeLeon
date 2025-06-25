@@ -7,7 +7,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (4 days ago)
+- [joeldrapper/rubyschema](https://github.com/joeldrapper/rubyschema) (2 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (5 days ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (3 weeks ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 months ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (2 months ago)
@@ -25,11 +26,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
+- [Fix: newline and schema extensions](https://github.com/joeldrapper/rubyschema/pull/23) on [joeldrapper/rubyschema](https://github.com/joeldrapper/rubyschema) (1 day ago)
 - [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 weeks ago)
 - [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 weeks ago)
 - [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (9 months ago)
 - [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (9 months ago)
-- [Bring up to par](https://github.com/ahacking/to_json/pull/8) on [ahacking/to_json](https://github.com/ahacking/to_json) (9 months ago)
 
 ### 📜 My recent blog posts
 
@@ -41,9 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (1 day ago)
-- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (1 day ago)
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 week ago)
+- [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (1 day ago)
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (2 days ago)
+- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (2 days ago)
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (2 weeks ago)
 - [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (2 weeks ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (2 weeks ago)
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (3 weeks ago)
@@ -65,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (1 month ago)
 - [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data. (1 month ago)
 - [beautifulruby/superview](https://github.com/beautifulruby/superview) - Create Rails applications entirely from Phlex, ViewComponents, or any object that responds to `#render_in`. (1 month ago)
-- [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB&#43; Software Defined Radio (SDR) (1 month ago)
