@@ -7,8 +7,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (5 days ago)
-- [joeldrapper/rubyschema](https://github.com/joeldrapper/rubyschema) (1 week ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (6 days ago)
+- [joeldrapper/rubyschema](https://github.com/joeldrapper/rubyschema) (2 weeks ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (1 month ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 months ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (3 months ago)
@@ -29,8 +29,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Fix: newline and schema extensions](https://github.com/joeldrapper/rubyschema/pull/23) on [joeldrapper/rubyschema](https://github.com/joeldrapper/rubyschema) (1 week ago)
 - [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
-- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (9 months ago)
-- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (9 months ago)
+- [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (10 months ago)
+- [Bring up to par](https://github.com/kdgm/to_json/pull/2) on [kdgm/to_json](https://github.com/kdgm/to_json) (10 months ago)
 
 ### 📜 My recent blog posts
 
@@ -42,12 +42,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 days ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (1 week ago)
-- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (1 week ago)
-- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (1 week ago)
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (2 weeks ago)
+- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (2 weeks ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 weeks ago)
-- [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (3 weeks ago)
+- [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (4 weeks ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (1 month ago)
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (1 month ago)
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (1 month ago)
