@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (3 days ago)
+- [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (4 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (2 weeks ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (2 weeks ago)
@@ -64,6 +64,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player (1 month ago)
 - [wobsoriano/pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store. (1 month ago)
 - [bigbinary/perfm](https://github.com/bigbinary/perfm) (1 month ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 month ago)
-- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (1 month ago)
-- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (1 month ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 months ago)
+- [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (2 months ago)
+- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (2 months ago)
