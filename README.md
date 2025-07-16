@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (6 days ago)
+- [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (3 weeks ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (3 weeks ago)
