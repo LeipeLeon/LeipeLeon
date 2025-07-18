@@ -42,6 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
+- [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (1 day ago)
 - [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (3 weeks ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [bigbinary/perfm](https://github.com/bigbinary/perfm) (2 months ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 months ago)
 - [fastruby/rails_stats](https://github.com/fastruby/rails_stats) - external/replacement version of rake stats (2 months ago)
-- [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter (2 months ago)
