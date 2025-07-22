@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 weeks ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 weeks ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (4 weeks ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (1 month ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 months ago)
@@ -26,7 +26,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (3 weeks ago)
+- [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (4 weeks ago)
 - [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (10 months ago)
@@ -42,10 +42,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (4 days ago)
+- [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (5 days ago)
 - [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
-- [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (3 weeks ago)
+- [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (4 weeks ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (4 weeks ago)
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (4 weeks ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
