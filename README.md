@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (3 days ago)
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (4 days ago)
 - [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (1 week ago)
 - [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (2 weeks ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 weeks ago)
@@ -53,7 +53,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (1 month ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (1 month ago)
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (1 month ago)
-- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (1 month ago)
+- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (2 months ago)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (2 months ago)
 - [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (2 months ago)
 - [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analyze CMCD v2 locally and in different cloud providers. (2 months ago)
