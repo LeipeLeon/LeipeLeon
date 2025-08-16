@@ -10,7 +10,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (1 week ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (1 month ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (2 months ago)
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 months ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (4 months ago)
 - [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (4 months ago)
 
 ### 🌱 My latest projects
@@ -45,7 +45,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt. (1 week ago)
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (1 week ago)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (3 weeks ago)
-- [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (4 weeks ago)
+- [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (1 month ago)
 - [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (1 month ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (1 month ago)
