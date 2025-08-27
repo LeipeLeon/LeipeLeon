@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (3 days ago)
+- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (4 days ago)
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt. (2 weeks ago)
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (2 weeks ago)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (1 month ago)
@@ -56,7 +56,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (2 months ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (2 months ago)
 - [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (2 months ago)
-- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (2 months ago)
+- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (3 months ago)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (3 months ago)
 - [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (3 months ago)
 - [qualabs/cmcd-toolkit](https://github.com/qualabs/cmcd-toolkit) - Tools to collect and analyze CMCD v2 locally and in different cloud providers. (3 months ago)
