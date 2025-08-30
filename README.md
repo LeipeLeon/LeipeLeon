@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (2 days ago)
-- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (6 days ago)
+- [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (3 days ago)
+- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (1 week ago)
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt. (3 weeks ago)
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (3 weeks ago)
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (1 month ago)
