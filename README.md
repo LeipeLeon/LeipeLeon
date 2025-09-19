@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### ⭐ Recent stars
 
 - [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (1 week ago)
-- [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (1 week ago)
-- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (1 week ago)
+- [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (2 weeks ago)
+- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (2 weeks ago)
 - [shkm/strong_service](https://github.com/shkm/strong_service) - 💪🏼 The best Service Object Ruby gem. (2 weeks ago)
 - [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (3 weeks ago)
 - [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (3 weeks ago)
