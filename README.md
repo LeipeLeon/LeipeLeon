@@ -9,9 +9,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (1 month ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (3 months ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (3 months ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (4 months ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (5 months ago)
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (5 months ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (6 months ago)
 
 ### 🌱 My latest projects
 
@@ -26,10 +26,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (3 weeks ago)
+- [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (4 weeks ago)
 - [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (3 months ago)
-- [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 months ago)
-- [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 months ago)
+- [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
+- [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
 - [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (1 year ago)
 
 ### 📜 My recent blog posts
@@ -42,11 +42,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 day ago)
-- [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (2 weeks ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 days ago)
+- [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (3 weeks ago)
 - [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (3 weeks ago)
 - [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (3 weeks ago)
-- [shkm/strong_service](https://github.com/shkm/strong_service) - 💪🏼 The best Service Object Ruby gem. (3 weeks ago)
+- [shkm/strong_service](https://github.com/shkm/strong_service) - 💪🏼 The best Service Object Ruby gem. (4 weeks ago)
 - [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (1 month ago)
 - [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (1 month ago)
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt. (1 month ago)
@@ -54,7 +54,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (2 months ago)
 - [diogoazevedos/nginx-vod-module](https://github.com/diogoazevedos/nginx-vod-module) - NGINX-based MP4 Repackager (2 months ago)
 - [TrinityMonsters/purple-client](https://github.com/TrinityMonsters/purple-client) - Build API wrappers faster (2 months ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 months ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 months ago)
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit  (3 months ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS (3 months ago)
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font. (3 months ago)
