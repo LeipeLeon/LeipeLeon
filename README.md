@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (1 day ago)
+- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (2 days ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (3 weeks ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (4 weeks ago)
 - [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (1 month ago)
@@ -63,7 +63,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (4 months ago)
 - [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (4 months ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (4 months ago)
-- [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (4 months ago)
+- [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (5 months ago)
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (5 months ago)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (5 months ago)
 - [jmettraux/rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - scheduler for Ruby (at, in, cron and every jobs) (5 months ago)
