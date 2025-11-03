@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (3 days ago)
-- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (5 days ago)
+- [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (4 days ago)
+- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (6 days ago)
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (1 week ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (1 month ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 month ago)
