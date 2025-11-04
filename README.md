@@ -42,14 +42,16 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (4 days ago)
-- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (6 days ago)
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (1 day ago)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 day ago)
+- [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (5 days ago)
+- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (1 week ago)
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (1 week ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (1 month ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 month ago)
 - [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (1 month ago)
-- [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (1 month ago)
-- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (1 month ago)
+- [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (2 months ago)
+- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (2 months ago)
 - [shkm/strong_service](https://github.com/shkm/strong_service) - 💪🏼 The best Service Object Ruby gem. (2 months ago)
 - [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (2 months ago)
 - [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (2 months ago)
@@ -65,5 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (4 months ago)
 - [drdnar/GortonDigital](https://github.com/drdnar/GortonDigital) - A revival of a 20th century interwar typeface. (4 months ago)
 - [neon443/AirAP](https://github.com/neon443/AirAP) - airplay to an ios device (5 months ago)
-- [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying (5 months ago)
-- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions (5 months ago)
