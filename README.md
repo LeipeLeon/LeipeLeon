@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [tenderlove/zeroconf](https://github.com/tenderlove/zeroconf) - Multicast DNS client and server written in pure Ruby (6 days ago)
+- [tenderlove/zeroconf](https://github.com/tenderlove/zeroconf) - Multicast DNS client and server written in pure Ruby (1 week ago)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (1 week ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 week ago)
 - [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (1 week ago)
