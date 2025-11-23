@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (6 days ago)
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (1 week ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (1 week ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (1 week ago)
 - [square/ruby-rrule](https://github.com/square/ruby-rrule) - RRULE expansion for Ruby (1 week ago)
@@ -52,7 +52,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (2 weeks ago)
 - [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (3 weeks ago)
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (3 weeks ago)
-- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (3 weeks ago)
+- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (4 weeks ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (1 month ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 month ago)
 - [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (2 months ago)
