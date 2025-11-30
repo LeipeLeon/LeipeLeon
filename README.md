@@ -9,9 +9,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 months ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (5 months ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (5 months ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (6 months ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (7 months ago)
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (7 months ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (8 months ago)
 
 ### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (2 months ago)
 - [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (5 months ago)
-- [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
-- [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
+- [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
+- [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
 - [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (1 year ago)
 
 ### 📜 My recent blog posts
@@ -42,8 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (2 days ago)
-- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (1 week ago)
+- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 days ago)
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (2 weeks ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (2 weeks ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (2 weeks ago)
 - [square/ruby-rrule](https://github.com/square/ruby-rrule) - RRULE expansion for Ruby (2 weeks ago)
