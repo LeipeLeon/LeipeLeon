@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔨 Latest Pull Requests I published
 
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (3 months ago)
-- [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (5 months ago)
+- [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (6 months ago)
 - [Improve image](https://github.com/LeipeLeon/zonneplan/pull/2) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
 - [Replace screenshot with a gnuplot](https://github.com/LeipeLeon/zonneplan/pull/1) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
 - [Support Ruby 3.X kwargs](https://github.com/kdgm/to_json/pull/3) on [kdgm/to_json](https://github.com/kdgm/to_json) (1 year ago)
@@ -42,7 +42,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (3 days ago)
+- [apple/ml-starflow](https://github.com/apple/ml-starflow) (1 day ago)
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (4 days ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (1 week ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (1 week ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (2 weeks ago)
@@ -65,5 +66,4 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling. (3 months ago)
 - [shkm/strong_service](https://github.com/shkm/strong_service) - 💪🏼 The best Service Object Ruby gem. (3 months ago)
 - [p10tyr/rtsp-to-onvif](https://github.com/p10tyr/rtsp-to-onvif) - Self hosted docker for virtual RTSP to ONVIF streams for Unify Protect 5&#43; (3 months ago)
-- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (3 months ago)
-- [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt. (4 months ago)
+- [ronikaufman/flexflex](https://github.com/ronikaufman/flexflex) - A typeface that responds to spatial requirements rather than imposing them (4 months ago)
