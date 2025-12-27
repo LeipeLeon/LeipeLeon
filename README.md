@@ -42,12 +42,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [apple/ml-starflow](https://github.com/apple/ml-starflow) (6 days ago)
+- [apple/ml-starflow](https://github.com/apple/ml-starflow) (1 week ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (1 week ago)
-- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (1 week ago)
+- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (2 weeks ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (2 weeks ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (3 weeks ago)
-- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (4 weeks ago)
+- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (1 month ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (1 month ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (1 month ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (1 month ago)
@@ -57,7 +57,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (1 month ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 month ago)
 - [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (1 month ago)
-- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (1 month ago)
+- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (2 months ago)
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (2 months ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (2 months ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 months ago)
