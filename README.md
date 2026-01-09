@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 weeks ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (4 weeks ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (4 months ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (6 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (7 months ago)
@@ -42,14 +42,16 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (5 days ago)
+- [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (1 day ago)
+- [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (1 day ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (6 days ago)
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails. (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (1 week ago)
 - [apple/ml-starflow](https://github.com/apple/ml-starflow) (2 weeks ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (3 weeks ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (3 weeks ago)
-- [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (3 weeks ago)
+- [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (4 weeks ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (1 month ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (1 month ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (1 month ago)
@@ -65,5 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (2 months ago)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book (3 months ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (3 months ago)
-- [matsimitsu/gb](https://github.com/matsimitsu/gb) - Git Branch, but like, easy (4 months ago)
-- [marcoroth/reactionview](https://github.com/marcoroth/reactionview) - 🌱 A new ActionView-compatible ERB engine with modern DX - re-imagined with Herb. (4 months ago)
