@@ -42,15 +42,15 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (1 day ago)
-- [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (1 day ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (6 days ago)
-- [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails. (1 week ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (1 week ago)
-- [apple/ml-starflow](https://github.com/apple/ml-starflow) (2 weeks ago)
+- [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (2 days ago)
+- [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (2 days ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
+- [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails. (2 weeks ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
+- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (2 weeks ago)
+- [apple/ml-starflow](https://github.com/apple/ml-starflow) (3 weeks ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (3 weeks ago)
-- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (3 weeks ago)
+- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (4 weeks ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (4 weeks ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (1 month ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (1 month ago)
