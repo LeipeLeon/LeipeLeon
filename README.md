@@ -42,10 +42,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (1 day ago)
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (1 day ago)
-- [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (6 days ago)
-- [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (6 days ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 day ago)
+- [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (2 days ago)
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (2 days ago)
+- [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (1 week ago)
+- [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails. (2 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
@@ -56,7 +57,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (1 month ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (1 month ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (1 month ago)
-- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (1 month ago)
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (2 months ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (2 months ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (2 months ago)
 - [square/ruby-rrule](https://github.com/square/ruby-rrule) - RRULE expansion for Ruby (2 months ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (2 months ago)
 - [yippee-fun/empirical](https://github.com/yippee-fun/empirical) (2 months ago)
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine (2 months ago)
-- [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination (2 months ago)
