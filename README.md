@@ -42,7 +42,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (1 day ago)
+- [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (2 days ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 week ago)
 - [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (1 week ago)
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (1 week ago)
