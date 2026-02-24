@@ -26,9 +26,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 days ago)
-- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (1 week ago)
-- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (1 week ago)
+- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 days ago)
+- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (2 weeks ago)
+- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (2 weeks ago)
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (5 months ago)
 - [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (8 months ago)
 
@@ -42,8 +42,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (4 days ago)
-- [searlsco/prove_it](https://github.com/searlsco/prove_it) (1 week ago)
+- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code - preserve every prompt and protect your progress (1 day ago)
+- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (5 days ago)
+- [searlsco/prove_it](https://github.com/searlsco/prove_it) (2 weeks ago)
 - [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (2 weeks ago)
 - [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (3 weeks ago)
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (3 months ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (3 months ago)
 - [square/ruby-rrule](https://github.com/square/ruby-rrule) - RRULE expansion for Ruby (3 months ago)
-- [nateberkopec/ghwatch](https://github.com/nateberkopec/ghwatch) - Github workflow/action/run watcher (3 months ago)
