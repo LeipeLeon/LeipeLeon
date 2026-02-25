@@ -26,7 +26,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 days ago)
+- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 days ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (2 weeks ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (2 weeks ago)
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (5 months ago)
@@ -42,8 +42,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code - preserve every prompt and protect your progress (1 day ago)
-- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (5 days ago)
+- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (1 day ago)
+- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code - preserve every prompt and protect your progress (2 days ago)
+- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (6 days ago)
 - [searlsco/prove_it](https://github.com/searlsco/prove_it) (2 weeks ago)
 - [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (2 weeks ago)
 - [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (3 weeks ago)
@@ -54,16 +55,15 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (1 month ago)
 - [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (1 month ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 month ago)
-- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (1 month ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
-- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (1 month ago)
+- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (2 months ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
+- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (2 months ago)
 - [apple/ml-starflow](https://github.com/apple/ml-starflow) (2 months ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (2 months ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (2 months ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (2 months ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (2 months ago)
-- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (2 months ago)
+- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 months ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (3 months ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (3 months ago)
 - [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (3 months ago)
-- [square/ruby-rrule](https://github.com/square/ruby-rrule) - RRULE expansion for Ruby (3 months ago)
