@@ -10,8 +10,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 months ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (6 months ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (8 months ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (8 months ago)
-- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (10 months ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (9 months ago)
+- [LeipeLeon/css3_clock](https://github.com/LeipeLeon/css3_clock) - A analog looking clock in CSS w/ a test card. (11 months ago)
 
 ### 🌱 My latest projects
 
@@ -42,11 +42,12 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (3 days ago)
-- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code. Preserve your prompts and protect your progress! (4 days ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (1 day ago)
+- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (4 days ago)
+- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code. Preserve your prompts and protect your progress! (5 days ago)
 - [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (1 week ago)
 - [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with (2 weeks ago)
-- [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (2 weeks ago)
+- [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (3 weeks ago)
 - [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (3 weeks ago)
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (1 month ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 month ago)
@@ -66,4 +67,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 months ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (3 months ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (3 months ago)
-- [pmansour/pimeet](https://github.com/pmansour/pimeet) - Bootstrap a Raspberry Pi 4 to run as a portable conference room. (3 months ago)
