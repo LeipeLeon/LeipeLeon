@@ -29,7 +29,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 week ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (2 weeks ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (2 weeks ago)
-- [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (5 months ago)
+- [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (6 months ago)
 - [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (8 months ago)
 
 ### 📜 My recent blog posts
@@ -42,13 +42,13 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (2 days ago)
-- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (5 days ago)
-- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code. Preserve your prompts and protect your progress! (6 days ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. (3 days ago)
+- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (6 days ago)
+- [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Automatically commit after every turn with Claude Code. Preserve your prompts and protect your progress! (1 week ago)
 - [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (1 week ago)
 - [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with (2 weeks ago)
 - [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (3 weeks ago)
-- [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (3 weeks ago)
+- [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (4 weeks ago)
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (1 month ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 month ago)
 - [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (1 month ago)
@@ -63,7 +63,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (2 months ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (2 months ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (2 months ago)
-- [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (2 months ago)
+- [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (3 months ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 months ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (3 months ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (3 months ago)
