@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (2 months ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 months ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (6 months ago)
 - [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (8 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (9 months ago)
@@ -26,9 +26,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 weeks ago)
-- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (4 weeks ago)
-- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (4 weeks ago)
+- [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 weeks ago)
+- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (1 month ago)
+- [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (1 month ago)
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (6 months ago)
 - [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (8 months ago)
 
@@ -42,11 +42,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark. (1 week ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 week ago)
 - [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (2 weeks ago)
 - [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Save state for Claude Code. Use git commits to preserve your prompts and protect your progress! (2 weeks ago)
-- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (2 weeks ago)
-- [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with (4 weeks ago)
+- [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (3 weeks ago)
+- [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with (1 month ago)
 - [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (1 month ago)
 - [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (1 month ago)
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (1 month ago)
@@ -62,7 +62,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [apple/ml-starflow](https://github.com/apple/ml-starflow) (2 months ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (2 months ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (2 months ago)
-- [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (2 months ago)
+- [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (3 months ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (3 months ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 months ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (3 months ago)
