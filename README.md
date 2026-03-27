@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (4 days ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (1 week ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 months ago)
 - [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) - Build client libraries compliant with specification defined by jsonapi.org (6 months ago)
@@ -27,11 +27,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
+- [Add Buitenpost (bijbuitenpost.nl) ICS feed](https://github.com/LeipeLeon/bwh-ical/pull/1) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (1 day ago)
 - [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (1 month ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/niko/ruby-shout/pull/4) on [niko/ruby-shout](https://github.com/niko/ruby-shout) (1 month ago)
 - [Improve Github Action for testing various combinations of ruby/faraday/active[support|model]](https://github.com/JsonApiClient/json_api_client/pull/415) on [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) (6 months ago)
-- [Fix: newline and schema extensions](https://github.com/yippee-fun/rubyschema/pull/23) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (9 months ago)
 
 ### 📜 My recent blog posts
 
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (3 weeks ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (4 weeks ago)
 - [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (1 month ago)
 - [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Save state for Claude Code. Use git commits to preserve your prompts and protect your progress! (1 month ago)
 - [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (1 month ago)
@@ -57,14 +57,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (2 months ago)
 - [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (2 months ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (2 months ago)
-- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (2 months ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
-- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (2 months ago)
+- [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (3 months ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 months ago)
+- [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (3 months ago)
 - [apple/ml-starflow](https://github.com/apple/ml-starflow) (3 months ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (3 months ago)
 - [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (3 months ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (3 months ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (3 months ago)
-- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (3 months ago)
+- [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (4 months ago)
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level. (4 months ago)
 - [pmansour/minimeet](https://github.com/pmansour/minimeet) (4 months ago)
