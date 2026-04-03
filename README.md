@@ -7,8 +7,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 days ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (6 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (4 days ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (1 week ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 weeks ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (3 months ago)
 - [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) - Build client libraries compliant with specification defined by jsonapi.org (7 months ago)
@@ -27,8 +27,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 days ago)
-- [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 days ago)
+- [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 days ago)
+- [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 days ago)
 - [Add Buitenpost (bijbuitenpost.nl) ICS feed](https://github.com/LeipeLeon/bwh-ical/pull/1) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (1 week ago)
 - [Fix failing build: add EnergyZero API fallback for price data](https://github.com/LeipeLeon/zonneplan/pull/3) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [[DS-421] Update ruby-shout to support Apple Silicon](https://github.com/DonkeyMobile/ruby-shout/pull/1) on [DonkeyMobile/ruby-shout](https://github.com/DonkeyMobile/ruby-shout) (1 month ago)
@@ -49,14 +49,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [heroku/mcp-code-exec-ruby](https://github.com/heroku/mcp-code-exec-ruby) (1 month ago)
 - [searlsco/prove_it](https://github.com/searlsco/prove_it) - The verification harness that Claude Code should have shipped with (1 month ago)
 - [AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) - Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS. (1 month ago)
-- [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (1 month ago)
+- [searlsco/scrapple](https://github.com/searlsco/scrapple) - Scrapes Apple developer docs for your coding agent (2 months ago)
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (2 months ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (2 months ago)
 - [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (2 months ago)
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (2 months ago)
 - [davishmcclurg/json_schemer](https://github.com/davishmcclurg/json_schemer) - JSON Schema validator. Supports drafts 4, 6, 7, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1. (2 months ago)
 - [tenderlove/yaml-schema](https://github.com/tenderlove/yaml-schema) - A library for validating YAML documents against a schema (2 months ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (2 months ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (3 months ago)
 - [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (3 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 months ago)
 - [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (3 months ago)
