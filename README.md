@@ -7,8 +7,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 days ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (2 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 days ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (3 days ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (3 weeks ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (4 months ago)
 - [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) - Build client libraries compliant with specification defined by jsonapi.org (7 months ago)
@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fix BWH parser crash when detail_box has mismatched div counts](https://github.com/LeipeLeon/bwh-ical/pull/2) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (5 days ago)
+- [Fix BWH parser crash when detail_box has mismatched div counts](https://github.com/LeipeLeon/bwh-ical/pull/2) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (6 days ago)
 - [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 week ago)
 - [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 week ago)
 - [Add Buitenpost (bijbuitenpost.nl) ICS feed](https://github.com/LeipeLeon/bwh-ical/pull/1) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (2 weeks ago)
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies. (2 days ago)
+- [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies. (3 days ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 month ago)
 - [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (1 month ago)
 - [searlsco/turbocommit](https://github.com/searlsco/turbocommit) - Save state for Claude Code. Use git commits to preserve your prompts and protect your progress! (1 month ago)
@@ -63,7 +63,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (3 months ago)
 - [apple/ml-starflow](https://github.com/apple/ml-starflow) (3 months ago)
 - [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking. (3 months ago)
-- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (3 months ago)
+- [searlsco/searls-auth](https://github.com/searlsco/searls-auth) - Searls-flavored login for Rails apps (4 months ago)
 - [adobe-type-tools/drawBotProofing](https://github.com/adobe-type-tools/drawBotProofing) (4 months ago)
 - [nrcrast/cmdt](https://github.com/nrcrast/cmdt) - Common Media Diagnostic Tool (4 months ago)
 - [searlsco/posse_party](https://github.com/searlsco/posse_party) - Quit social media by posting more (4 months ago)
