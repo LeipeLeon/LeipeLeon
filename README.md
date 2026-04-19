@@ -43,13 +43,14 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats) - Calculate bitrate statistics using FFmpeg (1 day ago)
-- [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (1 day ago)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 days ago)
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI &#43; Claude Code plugin. (2 days ago)
-- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - A media processing framework written in Go. (3 days ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (3 days ago)
-- [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate (3 days ago)
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (1 day ago)
+- [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats) - Calculate bitrate statistics using FFmpeg (2 days ago)
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (2 days ago)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 days ago)
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (3 days ago)
+- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - A media processing framework written in Go. (4 days ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (4 days ago)
+- [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate (4 days ago)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 week ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 month ago)
 - [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (1 month ago)
@@ -67,4 +68,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [rage-rb/rage](https://github.com/rage-rb/rage) - A modern Ruby framework designed for non-blocking I/O and simpler infrastructure (3 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 months ago)
 - [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) - A Ruby gem implementation of a Model Context Protocol (MCP) server for Rails projects. This server allows LLMs (Large Language Models) to interact with Rails projects through the Model Context Protocol. (3 months ago)
-- [apple/ml-starflow](https://github.com/apple/ml-starflow) (3 months ago)
