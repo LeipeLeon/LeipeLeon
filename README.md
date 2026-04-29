@@ -29,8 +29,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 - [add Claude Code reference](https://github.com/DonkeyMobile/sirportly-mcp/pull/1) on [DonkeyMobile/sirportly-mcp](https://github.com/DonkeyMobile/sirportly-mcp) (1 week ago)
 - [Fix BWH parser crash when detail_box has mismatched div counts](https://github.com/LeipeLeon/bwh-ical/pull/2) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (3 weeks ago)
-- [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 weeks ago)
-- [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 weeks ago)
+- [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
+- [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [Add Buitenpost (bijbuitenpost.nl) ICS feed](https://github.com/LeipeLeon/bwh-ical/pull/1) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (1 month ago)
 
 ### 📜 My recent blog posts
@@ -43,8 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (2 days ago)
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (3 days ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (3 days ago)
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (4 days ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (1 week ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (1 week ago)
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (1 week ago)
@@ -52,9 +52,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (1 week ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (1 week ago)
-- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - A media processing framework written in Go. (1 week ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (1 week ago)
-- [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate (1 week ago)
+- [MediaMolder/mediamolder](https://github.com/MediaMolder/mediamolder) - A media processing framework written in Go. (2 weeks ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (2 weeks ago)
+- [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate (2 weeks ago)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (2 weeks ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (2 months ago)
 - [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (2 months ago)
