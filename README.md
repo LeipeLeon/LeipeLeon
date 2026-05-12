@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔨 Latest Pull Requests I published
 
-- [add Claude Code reference](https://github.com/DonkeyMobile/sirportly-mcp/pull/1) on [DonkeyMobile/sirportly-mcp](https://github.com/DonkeyMobile/sirportly-mcp) (2 weeks ago)
+- [add Claude Code reference](https://github.com/DonkeyMobile/sirportly-mcp/pull/1) on [DonkeyMobile/sirportly-mcp](https://github.com/DonkeyMobile/sirportly-mcp) (3 weeks ago)
 - [Fix BWH parser crash when detail_box has mismatched div counts](https://github.com/LeipeLeon/bwh-ical/pull/2) on [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) (1 month ago)
 - [Extract Zonneplan module, add specs, remove dead scripts](https://github.com/LeipeLeon/zonneplan/pull/5) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [Fix EnergyZero price conversion: 100x too small](https://github.com/LeipeLeon/zonneplan/pull/4) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
@@ -43,12 +43,13 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (1 day ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 day ago)
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (2 days ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (1 week ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (2 weeks ago)
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (2 weeks ago)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (2 weeks ago)
-- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (2 weeks ago)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (3 weeks ago)
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 weeks ago)
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (3 weeks ago)
 - [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats) - Calculate bitrate statistics using FFmpeg (3 weeks ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (3 weeks ago)
@@ -67,4 +68,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [thoughtbot/rails-audit-thoughtbot](https://github.com/thoughtbot/rails-audit-thoughtbot) - Claude skill to run code audits (3 months ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (3 months ago)
 - [lloydi/PolyPane-Config](https://github.com/lloydi/PolyPane-Config) - Some useful groups of panes for accessibility testing (3 months ago)
-- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (3 months ago)
