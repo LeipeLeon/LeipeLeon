@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 6 days ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 1 week ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) ([v1.21.1](https://github.com/JsonApiClient/json_api_client/releases/tag/v1.21.1), 3 years ago) - Build client libraries compliant with specification defined by jsonapi.org
 
 ### 🔨 Latest Pull Requests I published
@@ -44,9 +44,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (1 day ago)
-- [tantara/openbrief](https://github.com/tantara/openbrief) (3 days ago)
-- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (3 days ago)
+- [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (2 days ago)
+- [tantara/openbrief](https://github.com/tantara/openbrief) (4 days ago)
+- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (4 days ago)
 - [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (1 week ago)
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI (1 week ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (1 week ago)
