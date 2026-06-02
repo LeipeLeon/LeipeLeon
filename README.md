@@ -44,9 +44,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (4 days ago)
-- [tantara/openbrief](https://github.com/tantara/openbrief) (6 days ago)
-- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (6 days ago)
+- [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (1 day ago)
+- [DonkeyMobile/web-apps](https://github.com/DonkeyMobile/web-apps) - Donkey mobile web applications (1 day ago)
+- [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (5 days ago)
+- [tantara/openbrief](https://github.com/tantara/openbrief) (1 week ago)
+- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (1 week ago)
 - [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (1 week ago)
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI (1 week ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (1 week ago)
@@ -67,5 +69,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output (1 month ago)
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate (1 month ago)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 month ago)
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (3 months ago)
-- [kdgm/ri_cal](https://github.com/kdgm/ri_cal) - New Rfc 2445 (iCalendar) gem for Ruby (3 months ago)
