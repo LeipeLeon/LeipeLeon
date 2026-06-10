@@ -8,10 +8,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (2 weeks ago)
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 weeks ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 weeks ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (2 months ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (2 months ago)
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (5 months ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (6 months ago)
 
 ### 🌱 My latest projects
 
@@ -31,8 +31,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 weeks ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/bibendi/dip/pull/188) on [bibendi/dip](https://github.com/bibendi/dip) (2 weeks ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/LeipeLeon/dip/pull/1) on [LeipeLeon/dip](https://github.com/LeipeLeon/dip) (2 weeks ago)
-- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 weeks ago)
-- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 weeks ago)
+- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 weeks ago)
+- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (2 days ago)
+- [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (3 days ago)
 - [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (1 week ago)
 - [DonkeyMobile/web-apps](https://github.com/DonkeyMobile/web-apps) - Donkey mobile web applications (1 week ago)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (1 week ago)
@@ -54,7 +54,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI (2 weeks ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (2 weeks ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents. (3 weeks ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 weeks ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 month ago)
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (1 month ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (1 month ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (1 month ago)
