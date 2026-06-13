@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 2 weeks ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 3 weeks ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) ([v1.21.1](https://github.com/JsonApiClient/json_api_client/releases/tag/v1.21.1), 3 years ago) - Build client libraries compliant with specification defined by jsonapi.org
 
 ### 🔨 Latest Pull Requests I published
@@ -44,8 +44,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag (1 day ago)
-- [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (5 days ago)
+- [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag (2 days ago)
+- [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (6 days ago)
 - [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (1 week ago)
 - [DonkeyMobile/web-apps](https://github.com/DonkeyMobile/web-apps) - Donkey mobile web applications (1 week ago)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (2 weeks ago)
