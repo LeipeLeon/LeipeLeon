@@ -60,7 +60,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI (1 month ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (1 month ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (1 month ago)
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (1 month ago)
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (2 months ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (2 months ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (2 months ago)
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (2 months ago)
