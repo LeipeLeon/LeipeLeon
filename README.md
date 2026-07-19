@@ -8,7 +8,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 👷 Check out what I'm currently working on
 
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (1 month ago)
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (1 month ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (3 months ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (4 months ago)
 - [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (7 months ago)
@@ -31,8 +31,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/bibendi/dip/pull/188) on [bibendi/dip](https://github.com/bibendi/dip) (1 month ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/LeipeLeon/dip/pull/1) on [LeipeLeon/dip](https://github.com/LeipeLeon/dip) (1 month ago)
-- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
-- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (1 month ago)
+- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 months ago)
+- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (2 months ago)
 
 ### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### ⭐ Recent stars
 
-- [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (2 days ago)
+- [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (3 days ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (1 week ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (1 week ago)
 - [kFYatek/bbc-testcards](https://github.com/kFYatek/bbc-testcards) - BBC Test Card Restoration Project (3 weeks ago)
