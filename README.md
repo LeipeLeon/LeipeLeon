@@ -7,11 +7,11 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 
 ### 👷 Check out what I'm currently working on
 
-- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (5 days ago)
+- [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (6 days ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (2 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (4 months ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (4 months ago)
-- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (7 months ago)
+- [LeipeLeon/Modul8_Modules](https://github.com/LeipeLeon/Modul8_Modules) - Modules for the Modul8 VJ App (8 months ago)
 
 ### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (2 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (2 months ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents. (2 months ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 months ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (3 months ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (3 months ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (3 months ago)
