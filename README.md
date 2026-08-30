@@ -51,7 +51,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (2 months ago)
 - [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag (2 months ago)
 - [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (2 months ago)
-- [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (2 months ago)
+- [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (3 months ago)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (3 months ago)
 - [tantara/openbrief](https://github.com/tantara/openbrief) (3 months ago)
 - [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (3 months ago)
