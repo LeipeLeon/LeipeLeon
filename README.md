@@ -24,7 +24,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 ### 🔭 Latest releases I've contributed to
 
 - [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 3 months ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
-- [JsonApiClient/json_api_client](https://github.com/JsonApiClient/json_api_client) ([v1.21.1](https://github.com/JsonApiClient/json_api_client/releases/tag/v1.21.1), 3 years ago) - Build client libraries compliant with specification defined by jsonapi.org
 
 ### 🔨 Latest Pull Requests I published
 
@@ -58,7 +57,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
 - [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (3 months ago)
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (3 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (3 months ago)
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Legacy stable repository. Current re_gent development: https://github.com/bonez-io/re_gent (3 months ago)
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (3 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 months ago)
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (3 months ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (4 months ago)
