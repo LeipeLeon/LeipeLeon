@@ -2,10 +2,10 @@
 
 ### About Me
 
-My name is **Leon Berenschot** and I'm mainly a **Ruby Developer**
+My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping my toes into elixir. On the moment I'm fulltime working on [Memoriam.tv](https://github.com/memoriam-tv), a streaming platform for funerals.
 <br>
 
-### 👷 Check out what I'm currently working on
+### 👷 Recent repo's I've worked on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
