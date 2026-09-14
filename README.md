@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v8.3.0](https://github.com/bibendi/dip/releases/tag/v8.3.0), 3 months ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v8.4.0](https://github.com/bibendi/dip/releases/tag/v8.4.0), 1 day ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (1 month ago)
+- [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (2 months ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (2 months ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (2 months ago)
 - [kFYatek/bbc-testcards](https://github.com/kFYatek/bbc-testcards) - BBC Test Card Restoration Project (2 months ago)
@@ -57,7 +57,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (3 months ago)
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (3 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (3 months ago)
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (3 months ago)
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (4 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 months ago)
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (4 months ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (4 months ago)
@@ -66,5 +66,5 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (4 months ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (4 months ago)
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine (4 months ago)
-- [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats) - Calculate bitrate statistics using FFmpeg (4 months ago)
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn (4 months ago)
+- [slhck/ffmpeg-bitrate-stats](https://github.com/slhck/ffmpeg-bitrate-stats) - Calculate bitrate statistics using FFmpeg (5 months ago)
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn (5 months ago)
