@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 👷 Recent repo's I've worked on
 
-- [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (6 days ago)
+- [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 week ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (1 month ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (4 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (5 months ago)
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (2 days ago)
+- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (3 days ago)
 - [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (1 week ago)
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 week ago)
 - [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (1 week ago)
@@ -54,7 +54,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (3 months ago)
 - [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag (3 months ago)
 - [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (3 months ago)
-- [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (3 months ago)
+- [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (4 months ago)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (4 months ago)
 - [tantara/openbrief](https://github.com/tantara/openbrief) (4 months ago)
 - [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (4 months ago)
