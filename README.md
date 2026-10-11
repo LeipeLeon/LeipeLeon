@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v8.4.0](https://github.com/bibendi/dip/releases/tag/v8.4.0), 3 weeks ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v8.4.0](https://github.com/bibendi/dip/releases/tag/v8.4.0), 4 weeks ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -51,7 +51,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (3 months ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (3 months ago)
 - [kFYatek/bbc-testcards](https://github.com/kFYatek/bbc-testcards) - BBC Test Card Restoration Project (3 months ago)
-- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (3 months ago)
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (4 months ago)
 - [rubys/roundhouse](https://github.com/rubys/roundhouse) - Rails as a specification; the deployment target is a build flag (4 months ago)
 - [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (4 months ago)
 - [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (4 months ago)
@@ -67,4 +67,4 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode &amp; 20&#43; CLIs via BYOK. (5 months ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (5 months ago)
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (5 months ago)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (5 months ago)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (5 months ago)
