@@ -30,8 +30,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/bibendi/dip/pull/188) on [bibendi/dip](https://github.com/bibendi/dip) (4 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/LeipeLeon/dip/pull/1) on [LeipeLeon/dip](https://github.com/LeipeLeon/dip) (4 months ago)
-- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
-- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
+- [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
+- [Collapse build, render, and stage into one run step](https://github.com/LeipeLeon/zonneplan/pull/11) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
 
 ### 📜 My recent blog posts
 
@@ -43,10 +43,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (2 weeks ago)
-- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (3 weeks ago)
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (3 weeks ago)
-- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (3 weeks ago)
+- [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (3 weeks ago)
+- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (4 weeks ago)
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (4 weeks ago)
+- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (4 weeks ago)
 - [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (3 months ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (3 months ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (3 months ago)
