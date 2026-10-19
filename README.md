@@ -9,7 +9,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (3 weeks ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 months ago)
-- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (4 months ago)
+- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (6 months ago)
 - [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (7 months ago)
 
@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 🔨 Latest Pull Requests I published
 
-- [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (4 months ago)
+- [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/bibendi/dip/pull/188) on [bibendi/dip](https://github.com/bibendi/dip) (5 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/LeipeLeon/dip/pull/1) on [LeipeLeon/dip](https://github.com/LeipeLeon/dip) (5 months ago)
 - [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
@@ -44,9 +44,9 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 ### ⭐ Recent stars
 
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (3 weeks ago)
-- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (4 weeks ago)
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (4 weeks ago)
-- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (4 weeks ago)
+- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal HLS, DASH, and IPTV stream monitor. Wire probes, TR 101 290, SCTE-35, Prometheus metrics. Rust CLI/TUI. (1 month ago)
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 month ago)
+- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (1 month ago)
 - [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (3 months ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (3 months ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (3 months ago)
@@ -58,13 +58,13 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (4 months ago)
 - [tantara/openbrief](https://github.com/tantara/openbrief) (4 months ago)
 - [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (4 months ago)
-- [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (4 months ago)
-- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (4 months ago)
+- [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (5 months ago)
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (5 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (5 months ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (5 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 months ago)
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (5 months ago)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (5 months ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (5 months ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (5 months ago)
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (5 months ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (6 months ago)
