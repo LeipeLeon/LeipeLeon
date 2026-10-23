@@ -7,19 +7,19 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 👷 Recent repo's I've worked on
 
+- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon (1 day ago)
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 month ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 months ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (6 months ago)
-- [LeipeLeon/ShuffleParty](https://github.com/LeipeLeon/ShuffleParty) - Library for the ShuffleParty @ rariteitenkabinet festival (7 months ago)
 
 ### 🌱 My latest projects
 
+- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer
 - [LeipeLeon/rails_key_rotator](https://github.com/LeipeLeon/rails_key_rotator) - Rotate your RAILS_MASTER_KEY with ease
 - [LeipeLeon/PowerDiscogs](https://github.com/LeipeLeon/PowerDiscogs) - Rapid search the database, handy for in the recordstore!
-- [LeipeLeon/blog](https://github.com/LeipeLeon/blog) - Personal Blog @ https://blog.wendbaar.nl/
 
 ### 🔭 Latest releases I've contributed to
 
@@ -56,8 +56,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Rails-Designer/fuik](https://github.com/Rails-Designer/fuik) - Rails engine that catches and stores webhooks from any provider (4 months ago)
 - [bcantrill/BattleTris](https://github.com/bcantrill/BattleTris) - Two-player networked tetris with a twist (4 months ago)
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (4 months ago)
-- [tantara/openbrief](https://github.com/tantara/openbrief) (4 months ago)
-- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (4 months ago)
+- [tantara/openbrief](https://github.com/tantara/openbrief) (5 months ago)
+- [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (5 months ago)
 - [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (5 months ago)
 - [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (5 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (5 months ago)
@@ -65,6 +65,6 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 months ago)
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (5 months ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (5 months ago)
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (5 months ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (6 months ago)
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (6 months ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (6 months ago)
