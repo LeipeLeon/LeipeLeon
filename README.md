@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 👷 Recent repo's I've worked on
 
-- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (3 days ago)
+- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (4 days ago)
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 month ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (2 months ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
@@ -43,6 +43,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
+- [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (1 day ago)
+- [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (1 day ago)
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (1 month ago)
 - [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI. (1 month ago)
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 month ago)
@@ -66,5 +68,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (5 months ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. (6 months ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (6 months ago)
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust. (6 months ago)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (6 months ago)
