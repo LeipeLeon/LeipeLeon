@@ -11,7 +11,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 month ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 months ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
-- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (6 months ago)
+- [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (7 months ago)
 
 ### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (2 days ago)
+- [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (3 days ago)
 - [hattoriai/fude](https://github.com/hattoriai/fude) (1 week ago)
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (1 week ago)
 - [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (1 week ago)
@@ -53,7 +53,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (1 month ago)
 - [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (3 months ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (3 months ago)
-- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (3 months ago)
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (4 months ago)
 - [kFYatek/bbc-testcards](https://github.com/kFYatek/bbc-testcards) - BBC Test Card Restoration Project (4 months ago)
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (4 months ago)
 - [roundhouse-rb/roundhouse](https://github.com/roundhouse-rb/roundhouse) - Rails as a specification; the deployment target is a build flag (4 months ago)
