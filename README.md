@@ -43,10 +43,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (6 days ago)
+- [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (1 week ago)
 - [hattoriai/fude](https://github.com/hattoriai/fude) (1 week ago)
-- [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (1 week ago)
-- [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (1 week ago)
+- [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (2 weeks ago)
+- [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (2 weeks ago)
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (1 month ago)
 - [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI. (1 month ago)
 - [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 month ago)
