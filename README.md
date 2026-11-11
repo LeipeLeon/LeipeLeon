@@ -7,7 +7,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 👷 Recent repo's I've worked on
 
-- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (1 week ago)
+- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (2 weeks ago)
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 month ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 months ago)
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
@@ -44,7 +44,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 ### ⭐ Recent stars
 
 - [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (1 week ago)
-- [hattoriai/fude](https://github.com/hattoriai/fude) (1 week ago)
+- [hattoriai/fude](https://github.com/hattoriai/fude) (2 weeks ago)
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (2 weeks ago)
 - [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (2 weeks ago)
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (1 month ago)
