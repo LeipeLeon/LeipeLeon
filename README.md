@@ -23,7 +23,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 🔭 Latest releases I've contributed to
 
-- [bibendi/dip](https://github.com/bibendi/dip) ([v8.4.0](https://github.com/bibendi/dip/releases/tag/v8.4.0), 1 month ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [bibendi/dip](https://github.com/bibendi/dip) ([v8.4.0](https://github.com/bibendi/dip/releases/tag/v8.4.0), 2 months ago) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -43,6 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
+- [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) - A distributed, protocol-compatible relay for Paseo (1 day ago)
 - [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (1 week ago)
 - [hattoriai/fude](https://github.com/hattoriai/fude) (2 weeks ago)
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (2 weeks ago)
@@ -67,4 +68,3 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (5 months ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (5 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (6 months ago)
-- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps (6 months ago)
