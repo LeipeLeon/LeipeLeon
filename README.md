@@ -43,7 +43,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) - A distributed, protocol-compatible relay for Paseo (2 days ago)
+- [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) - A distributed, protocol-compatible relay for Paseo (3 days ago)
 - [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (1 week ago)
 - [hattoriai/fude](https://github.com/hattoriai/fude) (2 weeks ago)
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (2 weeks ago)
