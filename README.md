@@ -7,10 +7,10 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 👷 Recent repo's I've worked on
 
-- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (2 weeks ago)
+- [LeipeLeon/code_beam_2026](https://github.com/LeipeLeon/code_beam_2026) - CodeBEAM hackathon: Let It Crash, a funny Code BEAM companion app (Phoenix LiveView). Vibecoded with omp and cmux. (3 weeks ago)
 - [Memoriam-tv/PiTestCardGenerator](https://github.com/Memoriam-tv/PiTestCardGenerator) - A test] (1 month ago)
 - [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) - Create an image for use in a TRMNL display (3 months ago)
-- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (5 months ago)
+- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application. (6 months ago)
 - [LeipeLeon/bwh-ical](https://github.com/LeipeLeon/bwh-ical) - iCal feeds from various venues in Deventer (7 months ago)
 
 ### 🌱 My latest projects
@@ -27,7 +27,7 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### 🔨 Latest Pull Requests I published
 
-- [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (5 months ago)
+- [Update README to match current pipeline](https://github.com/LeipeLeon/zonneplan/pull/13) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/bibendi/dip/pull/188) on [bibendi/dip](https://github.com/bibendi/dip) (6 months ago)
 - [feat: add `preflight` hook to run commands before `dip compose`](https://github.com/LeipeLeon/dip/pull/1) on [LeipeLeon/dip](https://github.com/LeipeLeon/dip) (6 months ago)
 - [Collapse build, commit-history, and deploy into one job](https://github.com/LeipeLeon/zonneplan/pull/12) on [LeipeLeon/zonneplan](https://github.com/LeipeLeon/zonneplan) (6 months ago)
@@ -43,15 +43,15 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 
 ### ⭐ Recent stars
 
-- [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) - A distributed, protocol-compatible relay for Paseo (6 days ago)
+- [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) - A distributed, protocol-compatible relay for Paseo (1 week ago)
 - [zoolutions/stationery](https://github.com/zoolutions/stationery) - Pure-Ruby, Phlex-style PDF documents: box layout, TrueType fonts, images. No Prawn, no Chrome. (2 weeks ago)
-- [hattoriai/fude](https://github.com/hattoriai/fude) (2 weeks ago)
+- [hattoriai/fude](https://github.com/hattoriai/fude) (3 weeks ago)
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod. (3 weeks ago)
 - [hattoriai/hakushi](https://github.com/hattoriai/hakushi) (3 weeks ago)
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara (1 month ago)
-- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI. (1 month ago)
-- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (1 month ago)
-- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (1 month ago)
+- [Jorji49/streamtop](https://github.com/Jorji49/streamtop) - Terminal monitor for live HLS, DASH, and IPTV streams. Wire probes, TR 101 290, SCTE-35, Prometheus and OpenTelemetry metrics. Rust CLI and TUI. (2 months ago)
+- [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.  (2 months ago)
+- [yaroslav/bundlebun](https://github.com/yaroslav/bundlebun) - bundlebun bundles Bun, a fast JavaScript runtime, package manager, and builder, with your Ruby and Rails applications (2 months ago)
 - [sferik/minitest-memory](https://github.com/sferik/minitest-memory) - Memory allocation assertions for Minitest (4 months ago)
 - [jallum/beadwork](https://github.com/jallum/beadwork) - Beadwork is a git-native work management tool for humans and AI coding agents. Plans, progress and decisions persist as files on an orphan-branch, not as cruft in yours. (4 months ago)
 - [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software (4 months ago)
@@ -63,8 +63,8 @@ My name is **Leon Berenschot** and I'm mainly a **Ruby Developer** while tipping
 - [denoland/clawpatrol](https://github.com/denoland/clawpatrol) - Security firewall for agents (5 months ago)
 - [tantara/openbrief](https://github.com/tantara/openbrief) (5 months ago)
 - [pbs/media-preview-hls-iframe](https://github.com/pbs/media-preview-hls-iframe) - Media Chrome &lt;slot=&#34;preview&#34;&gt; add-on that renders hls.js I-frame trick-play previews on time-range hover. (5 months ago)
-- [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (5 months ago)
-- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (5 months ago)
+- [Glimesh/stream-sniff](https://github.com/Glimesh/stream-sniff) - Stream Sniff analyzes your live video encoding to give you the best stream possible  (6 months ago)
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI (6 months ago)
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program &amp; library. (6 months ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step. (6 months ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (6 months ago)
